@@ -1,0 +1,14 @@
+Car model - bmw 
+Category - ecosport
+Type - coupe
+Fuel - diesel
+Kilometers - 120
+Price - 400.00
+Car model - merc
+Category - economic
+Type - sedan
+Fuel - diesel
+Kilometers - 10020
+Price - 2000.00
+Gasoline cars: 0.00%
+Diesel cars: 100.00%

@@ -1,0 +1,14 @@
+Car model - asd
+Category - sport
+Type - coupe
+Fuel - gasoline
+Kilometers - 12333
+Price - 2200.00
+Car model - beenveto
+Category - ecosport
+Type - coupe
+Fuel - diesel
+Kilometers - 50
+Price - 222.11
+Gasoline cars: 50.00%
+Diesel cars: 50.00%

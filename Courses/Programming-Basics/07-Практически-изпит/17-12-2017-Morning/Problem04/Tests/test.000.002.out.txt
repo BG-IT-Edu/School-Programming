@@ -1,0 +1,20 @@
+Car model - audi A4
+Category - executive
+Type - sedan
+Fuel - gasoline
+Kilometers - 89000
+Price - 2212.12
+Car model - mercedes sls
+Category - supersport
+Type - coupe
+Fuel - gasoline
+Kilometers - 65291
+Price - 120000.00
+Car model - opel astra
+Category - ecosport
+Type - coupe
+Fuel - diesel
+Kilometers - 200000
+Price - 2700.00
+Gasoline cars: 66.67%
+Diesel cars: 33.33%

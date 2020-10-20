@@ -1,0 +1,13 @@
+2
+bmw s500
+sedan
+diesel
+vip
+20001
+202012
+hellcat
+coupe
+gasoline
+normal
+20012
+420

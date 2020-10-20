@@ -1,0 +1,4 @@
+no
+The car is in bad condition
+VIN 93821 is not valid
+Cannot make discount, profit too low - 300.00

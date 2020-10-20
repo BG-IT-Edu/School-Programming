@@ -1,0 +1,3 @@
+no
+VIN 5823 is not valid
+Cannot make discount, profit too low - 318.45

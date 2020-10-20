@@ -1,0 +1,20 @@
+Car model - bmw
+Category - ecosport
+Type - coupe
+Fuel - diesel
+Kilometers - 2000
+Price - 2000.00
+Car model - mercedes edishosi
+Category - executive
+Type - sedan
+Fuel - gasoline
+Kilometers - 22921
+Price - 921.00
+Car model - opelche
+Category - economic
+Type - sedan
+Fuel - diesel
+Kilometers - 8888
+Price - 299492.00
+Gasoline cars: 33.33%
+Diesel cars: 66.67%

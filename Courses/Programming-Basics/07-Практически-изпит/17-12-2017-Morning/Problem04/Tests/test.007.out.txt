@@ -1,0 +1,8 @@
+Car model - tigra
+Category - sport
+Type - coupe
+Fuel - gasoline
+Kilometers - 888999
+Price - 3119.00
+Gasoline cars: 100.00%
+Diesel cars: 0.00%

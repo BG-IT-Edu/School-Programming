@@ -1,0 +1,13 @@
+2
+bmw
+coupe
+gasoline
+normal
+0
+0
+bmw e30 m3 evo
+coupe
+gasoline
+vip
+9999999
+999991

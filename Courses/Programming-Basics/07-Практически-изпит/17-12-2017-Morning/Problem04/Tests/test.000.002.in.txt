@@ -1,0 +1,19 @@
+3
+audi a4
+sedan
+gasoline
+vip
+2012.123
+89000
+mercedes sls
+coupe
+gasoline
+normal
+120000
+65291
+opel astra
+coupe
+diesel
+vip
+2500
+200000

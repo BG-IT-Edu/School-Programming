@@ -1,0 +1,3 @@
+Total bitcoin after expenses: 0.03566 BTC
+Tax payed: 0.85 USD
+Programmer`s payment: 0.00396 BTC

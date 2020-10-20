@@ -1,0 +1,7 @@
+1
+bmw
+coupe
+gasoline
+vip
+100000
+12392

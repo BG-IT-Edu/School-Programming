@@ -1,0 +1,8 @@
+Car model - carmodel
+Category - executive
+Type - sedan
+Fuel - gasoline
+Kilometers - 0
+Price - 200.00
+Gasoline cars: 100.00%
+Diesel cars: 0.00%
