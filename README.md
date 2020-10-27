@@ -13,10 +13,10 @@
 ## Обхват на проекта
 
 За проектът обхваща разработката на свободно съдържание за:
- - **професия "Приложен програмист"** в професионалните гимназии
- - **професия "Системен програмист"** в професионалните гимназии
- - **професия "Програмист"** в професионалните гимназии
- - **профил "Софтуерни и хардуерни науки"** в профилираните гимназии
+ - [**професия "Приложен програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer) в професионалните гимназии
+ - [**професия "Системен програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/System-Programmer) в професионалните гимназии
+ - [**професия "Програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer) в професионалните гимназии
+ - [**профил "Софтуерни и хардуерни науки"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences) в профилираните гимназии
  
  ## Екип
  
