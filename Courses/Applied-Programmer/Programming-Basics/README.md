@@ -12,8 +12,7 @@
  - [**професия "Програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer) в професионалните гимназии
  
 Курсът е силно препоръчителен за:
- - [**профил "Софтуерни и хардуерни науки"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences) в профилираните гимназии
- 
+ - [**профил "Софтуерни и хардуерни науки"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences) в профилираните гимназии (преди модул ООП) 
 
 ## Завършеност
 
