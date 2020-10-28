@@ -7,12 +7,13 @@
 ## За кого е този курс?
 
 Курсът е задължителен за професии:
- - Приложен програмист
- - Програмист
- - Системен програмист
+ - [**професия "Приложен програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer) в професионалните гимназии
+ - [**професия "Системен програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/System-Programmer) в професионалните гимназии
+ - [**професия "Програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer) в професионалните гимназии
  
-Курсът е препоръчителен за:
- - Профил "Софтуерни и хардуерни науки" в профилираните гимназии
+Курсът е силно препоръчителен за:
+ - [**профил "Софтуерни и хардуерни науки"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences) в профилираните гимназии
+ 
 
 ## Завършеност
 
