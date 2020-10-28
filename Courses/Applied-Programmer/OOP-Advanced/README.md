@@ -21,4 +21,4 @@
  - Завършеност: 100%
 
 ## Препратки
- - https://softuni.foundation/projects/applied-software-developer-profession/object-oriented-programming-oop-advanced-course/
+ - https://softuni.foundation/projects/applied-software-developer-profession/object-oriented-programming-oop-advanced-course
