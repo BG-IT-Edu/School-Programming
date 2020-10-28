@@ -17,4 +17,4 @@
  - Завършеност: 90% (слайдовете на места са твърде теоретични -> да се добавят картинки, фигури, примери, код)
 
 ## Препратки
- - https://softuni.foundation/projects/applied-software-developer-profession/software-development-course
+ - https://softuni.foundation/projects/applied-software-developer-profession/software-engineering-course
