@@ -1,6 +1,6 @@
-## Guidelines for Content Creators
+## Ръководство за създателите на учебно съдържание
 
-**Guidelines** for course content creators:
+**Насоки** за създателите на учебни съдържание за обучителните курсове:
  - Creating **presentations** (presentation slides for the teachers to teach in class)
  - Creating **lab exercises** (step-by-step tutorials to practice certain concept)
  - Creating **exercises** / **homework** (assignments for work in class / or at home)
