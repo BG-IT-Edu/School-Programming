@@ -1,8 +1,8 @@
 ## Ръководство за създателите на учебно съдържание
 
 **Насоки** за създателите на учебни съдържание за обучителните курсове:
- - Creating **presentations** (presentation slides for the teachers to teach in class)
- - Creating **lab exercises** (step-by-step tutorials to practice certain concept)
- - Creating **exercises** / **homework** (assignments for work in class / or at home)
- - Creating **exams** (assignments for short term exams in class)
- - Creating **projects** (assignments for long term work at home)
+ - Как да създаваме **презентации** (пезентационни слайдове за преподаване в клас - за учителите)
+ - Как да създаваме **лабове** (детайлни постъпкови практически ръководства как да изградим дадено приложение или да решим дадена задача)
+ - Как да създаваме **упражнения** / **домашни** (задачи за упражнения в клас и за домашно вкъщи)
+ - Как да създаваме **изпитни теми** (задания за изпити + критерии за оценяване)
+ - Как да създаваме **проекти** (задания за практически проекти за работа вкъщи и защита на живо)
