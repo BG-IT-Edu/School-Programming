@@ -1,3 +1,0 @@
-no
-VIN 591230123 is not valid
-Cannot make discount, profit too low - 0.00

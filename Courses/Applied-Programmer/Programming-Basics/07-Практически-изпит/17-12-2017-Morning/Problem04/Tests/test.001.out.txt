@@ -1,8 +1,0 @@
-Car model - bmw
-Category - sport
-Type - coupe
-Fuel - gasoline
-Kilometers - 12392
-Price - 100200.00
-Gasoline cars: 100.00%
-Diesel cars: 0.00%
