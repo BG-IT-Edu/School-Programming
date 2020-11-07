@@ -1,7 +1,0 @@
-1
-carmodel
-sedan
-gasoline
-vip
-0
-0
