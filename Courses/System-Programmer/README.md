@@ -31,7 +31,6 @@
    - Трислойна архитектура, компонентно тестване, дебъгване, рефакториране на код, инструменти за разработка, софтуерни библиотеки, пакетни мениджъри, достъп до бази данни, ORM, създаване на потребителски интерфейс, изграждане на цялостно трислойно приложение
  - [Операционни системи (Operating Systems)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/System-Programmer/Operating-Systems) - 11 клас
    - Архитектура на ОС, ядро, обвивка, файлова система, процеси, потребители, памет, пакетни системи и инсталация на софтуер, услуги в ОС, работа с Linux shell и bash, виртуализация и контейнери
-   - Микроконтролери, Arduino, среда за разработка, програмиране за микроконтролер, вход и изход (GPIO), управление на сензори и периферия
  - Вградени системи - 11 клас
  - Компютърни мрежи - 11 клас
  - [Интернет програмиране (Internet and Web Development)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/System-Programmer/Internet-and-Web-Development) - 12 клас
@@ -39,6 +38,7 @@
  - [Софтуерно инженерство (Software Engineering Concepts)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/System-Programmer/Software-Engineering-Concepts) - 12 клас
    - Софтуерна разработка, работа с чужд код, сорс-контрол системи, софтуерно тестване, процеси и методологии
  - [Програмиране за вградени системи (Embedded Systems Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/System-Programmer/Embedded-Systems-Programming) - 12 клас
+   - Микроконтролери, Arduino, среда за разработка, програмиране за микроконтролер, вход и изход (GPIO), управление на сензори и периферия
  - Компютърна графика и дизайн - 12 клас
  - Мрежови протоколи и технологии - 12 клас
  - Приложения с графичен потребителски интерфейс - 12 клас
