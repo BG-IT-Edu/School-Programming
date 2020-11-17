@@ -14,6 +14,30 @@
 
 ***Забележка***: да не се бърка "обикновен програмист" (II степен на професионална квалификация) с "приложен програмист" и "системен програмист" (III степен на професионална квалификация).
 
+## Учебен план (курсове от професията)
+ - [Увод в програмирането (Programming Basics)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Programming-Basics) - 8 клас
+   - Променливи, проверки, цикли, функции (методи)
+ - [Програмиране (Programming Fundamentals)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Programming-Fundamentals) - 9 клас
+   - Сорс контрол, типове данни, масиви и списъци, речници и хеш-таблици, дебъгване, стрингове, многомерни масиви
+ - [Увод в обектно-ориентираното програмиране (OOP Basics)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/OOP-Basics) - 10 клас
+   - Дефиниране на класове (класове, конструктори, полета, свойства), член-функции (методи), енкапсулация на данни, статични членове
+ - [Увод в алгоритмите и структурите от данни (Algorithms and Data Structures Basics)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Algo-and-Data-Structures-Basics) - 10 клас
+   - Алгоритми и сложност, линейни структури данни (списък, стек, опашка), алгоритми върху редици и линейни структури, алгоритми за сортиране и търсене
+ - [Математически основи на програмирането (Mathematical Foundations of Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Math-Foundations-of-Programming) - 11 клас
+   - Бройни системи, статистика, системи линейни уравнения, функции, вектори, комбинаторика и вероятности
+ - [Обектно-ориентирано програмиране (OOP Advanced)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/OOP-Advanced) - 11-12 клас
+   - Компонентно тестване, дефиниране на по-сложни класове, шаблонни типове, наследяване, абстракция, интерфейси, полиморфизъм, упрвление на изключения, шаблони за дизайн
+ - [Бази данни (Databases and SQL)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Databases-and-SQL) - 11-12 клас
+   - Бази данни, таблици, записи, колони, моделиране на релационна база, SQL заявки за извличане на данни, съединения на таблици, агрегация и групиране, функции
+ - [Разработка на софтуер (Practical Software Development)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Practical-Software-Development) - 11-12 клас
+   - Трислойна архитектура, компонентно тестване, дебъгване, рефакториране на код, инструменти за разработка, софтуерни библиотеки, пакетни мениджъри, достъп до бази данни, ORM, създаване на потребителски интерфейс, изграждане на цялостно трислойно приложение
+ - [Операционни системи (Operating Systems)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Operating-Systems) - 11-12 клас
+   - Архитектура на ОС, ядро, обвивка, файлова система, процеси, потребители, памет, пакетни системи и инсталация на софтуер, услуги в ОС, работа с Linux shell и bash, виртуализация и контейнери
+ - [Програмиране за вградени системи (Embedded Systems Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Embedded-Systems-Programming) - 11-12 клас
+   - Микроконтролери, Arduino, среда за разработка, програмиране за микроконтролер, вход и изход (GPIO), управление на сензори и периферия
+ - [Конкурентно програмиране (Concurrent Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Concurrent-Programming) - 11-12 клас
+   - Асинхронно изпълнение, нишки и синхронизация
+
 ### Нормативни документи
  - **Държавен образователен стандарт** (ДОС) от 2019 г. за придобиване на квалификация по професията “**Програмист**“ (481010): https://www.navet.government.bg/bg/media/DOS_PROGRAMIST.pdf.
  - **Типов учебен план за специалност “Програмно осигуряване”** (код 4810101) за професионално образование с придобиване на втора степен на професионална квалификация с интензивно изучаване на чужд език, по рамкова програма B1 (утвърден със заповед РД 09-4127 / 29.08.2017 г. на МОН): https://softuni.foundation/wp-content/uploads/2020/10/Tipov-ucheben-plan-programno-osiguryavane-4810101.pdf.
