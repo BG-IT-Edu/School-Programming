@@ -1,0 +1,7 @@
+# Ignore C# and Visual Studio binary files and folders
+.vs
+bin
+obj
+
+# Ignore MS Office temp files
+~$*.*
