@@ -33,7 +33,7 @@
    - Архитектура на ОС, ядро, обвивка, файлова система, процеси, потребители, памет, пакетни системи и инсталация на софтуер, услуги в ОС, работа с Linux shell и bash, виртуализация и контейнери
  - [Програмиране за вградени системи (Embedded Systems Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Embedded-Systems-Programming) - 11 клас
    - Микроконтролери, Arduino, среда за разработка, програмиране за микроконтролер, вход и изход (GPIO), управление на сензори и периферия
- - [Конкурентно програмиране (Concurrent Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Concurrrent-Programming) - 11 клас
+ - [Конкурентно програмиране (Concurrent Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Concurrent-Programming) - 11 клас
    - Асинхронно изпълнение, нишки и синхронизация
  - [Интернет програмиране (Internet and Web Development)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Internet-and-Web-Development) - 12 клас
    - HTTP протокол, уеб сървъри, уеб програмиране, уеб приложения, сесии, връзка з бази данни, MVC технологична рамка, REST APIs
