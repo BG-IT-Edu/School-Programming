@@ -17,9 +17,9 @@
  - МОДУЛ 4: Програмиране на информационни системи (52 часа) - GUI приложения с бази данни
 
 **Липсващи модули** за профилиращ предмет "Информатика" (не се изискват от МОН, но са силно препоръчителни):
- - [Увод в програмирането](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Basics) (54 часа) - за старт
- - [Програмиране](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Fundamentals) (72 часа) - за да се научат да програмират, след "Увод в програмирането"
- - [Увод в уеб разработката](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Internet-and-Web-Development) (90 часа) - след GUI приложенията, последно
+ - [Увод в програмирането](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Basics) (54 часа) - за старт в програмирането (да научат как се работи с данни, проверки и цикли)
+ - [Програмиране](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Fundamentals) (72 часа) - за да се научат да програмират (да работят с масиви, списъци, стрингове и речници), като продължение след "Увод в програмирането"
+ - [Увод в уеб разработката](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Internet-and-Web-Development) (90 часа) - да се изучава след GUI приложенията, като последен курс в програмирането
 
 **Задължителни модули** за профилиращ предмет "**Информационни технологии**" и минимален брой часове според наредбата на МОН:
  - МОДУЛ 1: Обработка и анализ на данни (72 часа) - анализ на данни с електронни таблици, бази данни, информационни системи
