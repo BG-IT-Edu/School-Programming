@@ -12,7 +12,7 @@
 
 **Задължителни модули** за профилиращ предмет "**Информатика**" и минимален брой часове според наредбата на МОН:
  - МОДУЛ 1: Обектно-ориентирано проектиране и програмиране (72 часа) - вж. [ООП основи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Basics) и [ООП за напреднали](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Advanced)
- - МОДУЛ 2: Структури от данни и алгоритми (72 часа) - вж. [DS & Algo Basics](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Basics) и [DS & Also Advanced](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced)
+ - МОДУЛ 2: Структури от данни и алгоритми (72 часа) - вж. [DS & Algo Basics](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Basics) и [DS & Algo Advanced](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced)
  - МОДУЛ 3: [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Databases-and-SQL) (72 часа) - моделиране на релационна база данни, език SQL
  - МОДУЛ 4: Програмиране на информационни системи (52 часа) - GUI приложения с бази данни
 
