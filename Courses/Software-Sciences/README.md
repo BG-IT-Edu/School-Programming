@@ -11,15 +11,15 @@
 ### Учебни модули за информатика и ИТ
 
 **Задължителни модули** за профилиращ предмет "**Информатика**" и минимален брой часове според наредбата на МОН:
- - МОДУЛ 1: Обектно-ориентирано проектиране и програмиране (72 часа)
- - МОДУЛ 2: Структури от данни и алгоритми (72 часа)
- - МОДУЛ 3: Релационен модел на бази от данни (72 часа) - моделиране на релационна база данни, език SQL
+ - МОДУЛ 1: Обектно-ориентирано проектиране и програмиране (72 часа) - вж. [ООП основи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Basics) и [ООП за напреднали](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Advanced)
+ - МОДУЛ 2: Структури от данни и алгоритми (72 часа) - вж. [DS & Algo Basics](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Basics) и [DS & Also Advanced](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced)
+ - МОДУЛ 3: [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Databases-and-SQL) (72 часа) - моделиране на релационна база данни, език SQL
  - МОДУЛ 4: Програмиране на информационни системи (52 часа) - GUI приложения с бази данни
 
 **Липсващи модули** за профилиращ предмет "Информатика" (не се изискват от МОН, но са силно препоръчителни):
- - Увод в програмирането (54 часа) - за старт
- - Програмиране (72 часа) - за да се научат да програмират, след "Увод в програмирането"
- - Увод в уеб разработката (90 часа) - след GUI приложенията, последно
+ - [Увод в програмирането](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Basics) (54 часа) - за старт
+ - [Програмиране](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Fundamentals) (72 часа) - за да се научат да програмират, след "Увод в програмирането"
+ - [Увод в уеб разработката](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Internet-and-Web-Development) (90 часа) - след GUI приложенията, последно
 
 **Задължителни модули** за профилиращ предмет "**Информационни технологии**" и минимален брой часове според наредбата на МОН:
  - МОДУЛ 1: Обработка и анализ на данни (72 часа) - анализ на данни с електронни таблици, бази данни, информационни системи
