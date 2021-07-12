@@ -11,10 +11,10 @@
 ### Учебни модули за информатика и ИТ
 
 **Задължителни модули** за профилиращ предмет "**Информатика**" и минимален брой часове според наредбата на МОН:
- - МОДУЛ 1: Обектно-ориентирано проектиране и програмиране (72 часа) - вж. [ООП основи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Basics) и [ООП за напреднали](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Advanced)
- - МОДУЛ 2: Структури от данни и алгоритми (72 часа) - вж. [DS & Algo Basics](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Basics) и [DS & Algo Advanced](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced)
- - МОДУЛ 3: [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Databases-and-SQL) (72 часа) - моделиране на релационна база данни, език SQL
- - МОДУЛ 4: Програмиране на информационни системи (52 часа) - GUI приложения с бази данни
+ - МОДУЛ 1: Обектно-ориентирано проектиране и програмиране (72 часа, 11 клас) - вж. [ООП основи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Basics) и [ООП за напреднали](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Advanced)
+ - МОДУЛ 2: Структури от данни и алгоритми (72 часа, 11 клас) - вж. [DS & Algo Basics](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Basics) и [DS & Algo Advanced](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced)
+ - МОДУЛ 3: [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Databases-and-SQL) (72 часа, 12 клас) - моделиране на релационна база данни, език SQL
+ - МОДУЛ 4: Програмиране на информационни системи (52 часа, 12 клас) - GUI приложения с бази данни
 
 **Липсващи модули** за профилиращ предмет "Информатика" (не се изискват от МОН, но са силно препоръчителни):
  - [Увод в програмирането](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Basics) (54 часа) - за старт в програмирането (да научат как се работи с данни, проверки и цикли)
@@ -22,10 +22,10 @@
  - [Увод в уеб разработката](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Internet-and-Web-Development) (90 часа) - да се изучава след GUI приложенията, като последен курс в програмирането
 
 **Задължителни модули** за профилиращ предмет "**Информационни технологии**" и минимален брой часове според наредбата на МОН:
- - МОДУЛ 1: Обработка и анализ на данни (72 часа) - анализ на данни с електронни таблици, бази данни, информационни системи
- - МОДУЛ 2: Мултимедия (72 часа) - графика, звук, видео
- - МОДУЛ 3: Уеб дизайн (62 часа) - уеб сайтове с WordPress (+ малко HTML и CSS)
- - МОДУЛ 4: Решаване на проблеми с ИКТ (62 часа) - управление на проекти, екипна работа, ИКТ решения, хардуер и софтуер
+ - МОДУЛ 1: Обработка и анализ на данни (72 часа, 11 клас) - анализ на данни с електронни таблици, бази данни, информационни системи
+ - МОДУЛ 2: Мултимедия (72 часа, 11 клас) - графика, звук, видео
+ - МОДУЛ 3: Уеб дизайн (62 часа, 12 клас) - уеб сайтове с WordPress (+ малко HTML и CSS)
+ - МОДУЛ 4: Решаване на проблеми с ИКТ (62 часа, 12 клас) - управление на проекти, екипна работа, ИКТ решения, хардуер и софтуер
 
 **Липсващи модули** за профилиращ предмет "Информационни технологии" (не се изискват от МОН, но са препоръчителни):
  - Информационни технологии (90 часа) - хардуер, ОС, инсталация и поддръжка на ОС и приложен софтуер
