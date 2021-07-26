@@ -14,7 +14,7 @@
  - МОДУЛ 1: Обектно-ориентирано проектиране и програмиране (72 часа, 11 клас) - вж. [ООП основи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Basics) и [ООП за напреднали](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/OOP-Advanced)
  - МОДУЛ 2: Структури от данни и алгоритми (72 часа, 11 клас) - вж. [DS & Algo Basics](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Basics) и [DS & Algo Advanced](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced)
  - МОДУЛ 3: [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Databases-and-SQL) (72 часа, 12 клас) - моделиране на релационна база данни, език SQL
- - МОДУЛ 4: Програмиране на информационни системи (52 часа, 12 клас) - GUI приложения с бази данни
+ - МОДУЛ 4: Програмиране на информационни системи (52 часа, 12 клас) - GUI / Web приложения с бази данни
 
 **Липсващи модули** за профилиращ предмет "Информатика" (не се изискват от МОН, но са силно препоръчителни):
  - [Увод в програмирането](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Basics) (54 часа) - за старт в програмирането (да научат как се работи с данни, проверки и цикли)
