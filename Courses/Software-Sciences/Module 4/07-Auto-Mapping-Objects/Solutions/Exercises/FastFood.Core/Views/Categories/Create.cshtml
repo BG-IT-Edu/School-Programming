@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Create Category";
+}
+<h1 class="text-center">Create Category</h1>
+<hr class="bg-secondary half-width" />
+<form class="mx-auto half-width" asp-controller="Categories" asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="categoryName">Category Name</label>
+        <input type="text" class="form-control" id="categoryName" placeholder="Category Name..." name="categoryName">
+    </div>
+    <hr class="bg-secondary half-width" />
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn ">Create</button>
+    </div>
+</form>

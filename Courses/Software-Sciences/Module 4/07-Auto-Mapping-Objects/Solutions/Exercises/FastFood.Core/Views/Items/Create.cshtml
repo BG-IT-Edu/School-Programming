@@ -1,0 +1,30 @@
+﻿@model IList<FastFood.Core.ViewModels.Items.CreateItemViewModel>
+
+@{
+    ViewData["Title"] = "Create Item";
+}
+<h1 class="text-center">Create Item</h1>
+<hr class="bg-secondary half-width" />
+<form class="mx-auto half-width" asp-controller="Items" asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" placeholder="Name..." name="name">
+    </div>
+    <div class="form-group">
+        <label for="price">Price</label>
+        <input type="number" step="0.01" min="0.01" class="form-control" id="price" placeholder="Price..." name="price">
+    </div>
+    <div class="form-group">
+        <label for="category">Category Id</label>
+        <select id="category" class="form-control" name="CategoryId">
+            @foreach (var item in Model)
+            {
+                <option value="@item.CategoryId">@item.CategoryId</option>
+            }
+        </select>
+    </div>
+    <hr class="bg-secondary half-width" />
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn ">Create</button>
+    </div>
+</form>

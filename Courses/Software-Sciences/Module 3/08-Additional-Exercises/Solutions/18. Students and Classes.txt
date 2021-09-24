@@ -1,0 +1,44 @@
+CREATE TABLE Student(
+StudentID INT IDENTITY(1,1) PRIMARY KEY,
+Name VARCHAR(100),
+);
+CREATE TABLE Class(
+ClassID INT IDENTITY(1,1) PRIMARY KEY,
+Course VARCHAR(100),
+);
+CREATE TABLE StudentClassRelation(
+StudentID INT NOT NULL,
+ClassID INT NOT NULL,
+FOREIGN KEY (StudentID) REFERENCES Student(StudentID),
+FOREIGN KEY (ClassID) REFERENCES Class(ClassID),
+PRIMARY KEY (StudentID, ClassID)
+);
+INSERT INTO Student (Name)
+VALUES ('Olaf Alfonso');
+INSERT INTO Student (Name)
+VALUES ('Clark Davis');
+
+INSERT INTO Class (Course)
+VALUES ('Biology');
+INSERT INTO Class (Course)
+VALUES ('Chemistry');
+INSERT INTO Class (Course)
+VALUES ('Physics');
+INSERT INTO Class (Course)
+VALUES ('English');
+INSERT INTO Class (Course)
+VALUES ('Computer Science');
+INSERT INTO Class (Course)
+VALUES ('History');
+INSERT INTO StudentClassRelation (StudentID,ClassID)
+VALUES (1,2);
+INSERT INTO StudentClassRelation (StudentID,ClassID)
+VALUES (1,4);
+INSERT INTO StudentClassRelation (StudentID,ClassID)
+VALUES (1,6);
+INSERT INTO StudentClassRelation (StudentID,ClassID)
+VALUES (2,3);
+INSERT INTO StudentClassRelation (StudentID,ClassID)
+VALUES (2,1);
+INSERT INTO StudentClassRelation (StudentID,ClassID)
+VALUES (2,6);

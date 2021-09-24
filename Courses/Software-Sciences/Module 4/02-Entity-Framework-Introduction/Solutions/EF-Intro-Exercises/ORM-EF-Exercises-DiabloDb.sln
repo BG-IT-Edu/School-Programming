@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diablo", "Diablo\Diablo.csproj", "{27FD5500-3B01-4A96-B474-75BAFC51E443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FD5500-3B01-4A96-B474-75BAFC51E443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FD5500-3B01-4A96-B474-75BAFC51E443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FD5500-3B01-4A96-B474-75BAFC51E443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FD5500-3B01-4A96-B474-75BAFC51E443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E101D327-2894-45F9-96AA-2C13E522F4EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+3/26/2015 2:08:11 PM - Error - Error parsing JSON.
+3/26/2015 2:08:11 PM - Info - User Pesho successfully registered.

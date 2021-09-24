@@ -1,0 +1,57 @@
+CREATE TABLE Directors(
+Id INT NOT NULL PRIMARY KEY IDENTITY,
+DirectorName NVARCHAR(30) NOT NULL,
+Notes NVARCHAR(MAX),
+)
+
+CREATE TABLE Genres(
+Id INT NOT NULL PRIMARY KEY IDENTITY,
+GenreName VARCHAR(20) NOT NULL,
+Notes VARCHAR(MAX),
+)
+
+CREATE TABLE Categories(
+Id INT NOT NULL PRIMARY KEY IDENTITY,
+CategoryName NVARCHAR(30) NOT NULL,
+Notes VARCHAR(MAX),
+)
+
+CREATE TABLE Movies(
+Id INT NOT NULL PRIMARY KEY IDENTITY,
+Title NVARCHAR(200) NOT NULL,
+DirectorId INT FOREIGN KEY REFERENCES Directors(Id),
+CopyrightYear INT NOT NULL,
+Length TIME,
+GenreId INT FOREIGN KEY REFERENCES Genres(Id),
+CategoryId INT FOREIGN KEY REFERENCES Categories(Id),
+Rating DECIMAL(5,2),
+Notes NVARCHAR(MAX),
+)
+
+INSERT INTO Directors(DirectorName, Notes) VALUES
+('Gosho Goshev', 'First'),
+('Tosho Toshev', 'Second'),
+('Misho Mishev', 'Third'),
+('Kolio Kolev', 'Forth'),
+('Valio Valiov', 'Fith')
+
+INSERT INTO Genres(GenreName, Notes) VALUES
+('Drama', 'First genres notes'),
+('Comedy', 'Second genres notes'),
+('Thriller', 'Third genres notes'),
+('Adventure', 'Forth genres notes'),
+('Horror', 'Fith genres notes')
+
+INSERT INTO Categories(CategoryName, Notes) VALUES
+('Documentary', '1. Category notes'),
+('Reality', '2. Category notes'),
+('Religious', '3. Category notes'),
+('Biographical', '4. Category notes'),
+('Animation', '5. Category notes')
+
+INSERT INTO Movies (Title, DirectorId, CopyrightYear, Length, GenreId, CategoryId, Rating, Notes) VALUES
+('Movie 1', 2, 1999, '1:22:00', 1, 4, 3.5, NULL),
+('Movie 2', 1, 2004, NULL, 3, 4, 5.5, NULL),
+('Movie 3', 5, 1988, NULL, 5, 3, 3.3, NULL),
+('Movie 4', 4, 2017, NULL, 2, 3, 2.1, NULL),
+('Movie 5', 4, 1985, NULL, 2, 1, 4.4, NULL)

@@ -1,0 +1,6 @@
+SELECT ee.DepartmentID, rk.Salary
+	FROM Employees ee
+	LEFT JOIN (SELECT DENSE_RANK() OVER(PARTITION BY e.DepartmentID ORDER BY e.Salary DESC) AS [Rank], e.Salary, e.DepartmentID
+	FROM Employees e) rk ON rk.DepartmentID = ee.DepartmentID 
+	WHERE rk.Rank = 3
+	GROUP BY ee.DepartmentID, rk.Salary

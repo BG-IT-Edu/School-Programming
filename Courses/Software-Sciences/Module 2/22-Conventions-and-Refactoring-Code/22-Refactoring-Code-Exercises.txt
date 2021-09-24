@@ -1,0 +1,3 @@
+https://github.com/NikolayIT/CSharpConsoleGames/tree/master/Snake - Project for Refactoring
+
+https://github.com/bonchovylkov/CSharpConsoleGames/tree/master/Snake - Refactored Project

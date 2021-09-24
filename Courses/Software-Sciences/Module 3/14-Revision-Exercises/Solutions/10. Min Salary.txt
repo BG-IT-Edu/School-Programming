@@ -1,0 +1,3 @@
+  SELECT e.DepartmentID,       MIN(e.Salary) AS MinSalary
+    FROM Employees AS e
+GROUP BY e.DepartmentID

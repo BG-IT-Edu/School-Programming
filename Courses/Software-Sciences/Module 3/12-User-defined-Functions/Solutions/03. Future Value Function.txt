@@ -1,0 +1,11 @@
+CREATE FUNCTION ufn_CalculateFutureValue (@sum decimal(15,4), @yearlyInterestRate float,@numberOfYears int)
+RETURNS DECIMAL (15,4)
+AS
+BEGIN
+	DECLARE @FutureValue DECIMAL (15,4)
+	SET @FutureValue=CONVERT(DECIMAL (15,4),(
+	@sum*(POWER((1+@yearlyInterestRate),@numberOfYears))
+	))
+
+	RETURN @FutureValue
+END

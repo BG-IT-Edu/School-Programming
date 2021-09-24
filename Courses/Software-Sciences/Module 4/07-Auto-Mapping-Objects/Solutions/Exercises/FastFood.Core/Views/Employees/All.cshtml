@@ -1,0 +1,30 @@
+﻿@model IList<FastFood.Core.ViewModels.Employees.EmployeesAllViewModel>
+
+@{
+    ViewData["Title"] = "All Employees";
+}
+<h1 class="text-center">All Employees</h1>
+<hr class="hr-2" />
+<table class="table mx-auto">
+    <thead>
+        <tr class="row">
+            <th class="col-md-1">#</th>
+            <th class="col-md-2">Name</th>
+            <th class="col-md-2">Age</th>
+            <th class="col-md-2">Address</th>
+            <th class="col-md-2">Position</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for(var i = 0; i < Model.Count(); i++)
+    {
+        <tr class="row">
+            <th class="col-md-1">@i</th>
+            <td class="col-md-2">@Model[i].Name</td>
+            <td class="col-md-2">@Model[i].Age</td>
+            <td class="col-md-2">@Model[i].Address</td>
+            <td class="col-md-2">@Model[i].Position</td>
+        </tr>
+    }
+    </tbody>
+</table>

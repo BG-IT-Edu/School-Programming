@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Create Position";
+}
+<h1 class="text-center">Create Position</h1>
+<hr class="bg-secondary half-width" />
+<form class="mx-auto half-width" asp-controller="Positions" asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="positionName">Position Name</label>
+        <input type="text" class="form-control" id="positionName" placeholder="Position Name..." name="positionName">
+    </div>
+    <hr class="bg-secondary half-width" />
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn ">Create</button>
+    </div>
+</form>

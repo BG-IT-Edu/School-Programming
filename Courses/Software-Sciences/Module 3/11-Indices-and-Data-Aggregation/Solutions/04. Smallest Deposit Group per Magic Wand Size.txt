@@ -1,0 +1,4 @@
+SELECT TOP(2) DepositGroup from (
+Select  DepositGroup , AVG(MagicWandSize) as kur FROM WizzardDeposits
+GROUP BY DepositGroup) as k
+ORDER BY kur

@@ -1,0 +1,16 @@
+CREATE TABLE Users
+(
+	Id INT PRIMARY KEY IDENTITY,
+	UserName VARCHAR(30) NOT NULL,
+	Password VARCHAR(26) NOT NULL,
+	ProfilePicture VARBINARY(900),
+	LastLoginTime SMALLDATETIME,
+	IsDeleted BINARY
+)
+
+INSERT INTO Users (UserName, Password, ProfilePicture, LastLoginTime, IsDeleted) VALUES
+('StSl', '123asd', 1, '2019-01-18 18:45:25',0),
+('IlSt', '321asd', 1, '2019-01-15 17:32:47',0),
+('StBa', '123dsa', 1, '2018-12-25 18:45:25',1),
+('PlSh', '123asdasd', 1, '2019-01-03 09:15:45',0),
+('IvTa', 'asd123asd', 1, '2018-07-08 15:35:00',1)

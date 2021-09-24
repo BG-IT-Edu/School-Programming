@@ -1,0 +1,4 @@
+  SELECT e.DepartmentID, 
+         AVG(e.Salary) AS AvgSalary
+    FROM Employees AS e
+GROUP BY e.DepartmentID

@@ -1,0 +1,18 @@
+CREATE TABLE People
+(
+	Id INT PRIMARY KEY IDENTITY,
+	Name NVARCHAR(200) NOT NULL,
+	Picture VARBINARY(max) ,
+	Height DECIMAL (15,2),
+	Weight DECIMAL (15,2),
+	Gender CHAR(1) NOT NULL,
+	BirthDate DATE NOT NULL,
+	Biography NTEXT 
+)
+
+INSERT INTO People (Name, Picture, Height, Weight, Gender, BirthDate,Biography) VALUES
+('Ivan Ivanov',1  ,185 ,85, 'M' ,'19920104','Biography II'),
+('Kiril Kirilov',1  ,180 ,77, 'M' ,'19860804','Biography KK'),
+('Илияна Стоянова',1 ,158 ,50, 'F' ,'19940708','Биография ИС'),
+('Mitko Dimitrov', 1  ,190 ,90, 'M','19771220','Biography MD'),
+('Stefka Stefanova', 1  ,160 ,45, 'F','19891025','Biography SS')

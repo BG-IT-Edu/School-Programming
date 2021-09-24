@@ -1,0 +1,39 @@
+﻿@model FastFood.Core.ViewModels.Orders.CreateOrderViewModel
+
+@{
+    ViewData["Title"] = "Create Order";
+}
+<h1 class="text-center">Create Order</h1>
+<hr class="bg-secondary half-width" />
+<form class="mx-auto half-width" asp-controller="Orders" asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="name">Customer</label>
+        <input type="text" class="form-control" id="customer" placeholder="Customer..." name="customer">
+    </div>
+    <div class="form-group">
+        <label for="employee">Employee Id</label>
+        <select id="employee" class="form-control" name="EmployeeId">
+            @foreach (var employee in Model.Employees)
+            {
+                <option value="@employee">@employee</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="item">Item Id</label>
+        <select id="item" class="form-control" name="ItemId">
+            @foreach (var item in Model.Items)
+            {
+                <option value="@item">@item</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="quantity">Quantity</label>
+        <input type="number" step="1" min="11" class="form-control" id="quantity" placeholder="Quantity..." name="quantity">
+    </div>
+    <hr class="bg-secondary half-width" />
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn ">Create</button>
+    </div>
+</form>

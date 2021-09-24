@@ -1,0 +1,12 @@
+CREATE VIEW V_EmployeeNameJobTitle AS
+SELECT FirstName + ' ' + 
+	(SELECT MiddleName = 
+
+	CASE
+		WHEN MiddleName IS NULL THEN ''
+		ELSE MiddleName
+	END
+
+
+) + ' ' + LastName AS [Full Name], JobTitle AS [Job Title]
+FROM Employees

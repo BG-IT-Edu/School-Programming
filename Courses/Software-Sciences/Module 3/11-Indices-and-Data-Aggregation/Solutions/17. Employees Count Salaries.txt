@@ -1,0 +1,3 @@
+SELECT COUNT(*) AS [Count]
+	FROM Employees
+	WHERE Employees.ManagerID IS NULL

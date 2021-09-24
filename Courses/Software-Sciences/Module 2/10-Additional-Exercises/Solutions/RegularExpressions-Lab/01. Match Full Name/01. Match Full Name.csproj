@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>01.MatchFullName</RootNamespace>
+    <AssemblyName>01.MatchFullName</AssemblyName>
+  </PropertyGroup>
+
+</Project>

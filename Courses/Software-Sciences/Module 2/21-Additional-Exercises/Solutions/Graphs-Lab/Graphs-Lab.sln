@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Traverse-Graph-BFS", "Traverse-Graph-BFS\Traverse-Graph-BFS.csproj", "{8586D787-8984-4468-91AE-214DF99D7AC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Traverse-Graph-DFS", "Traverse-Graph-DFS\Traverse-Graph-DFS.csproj", "{1EDB2B74-08D6-4EF8-B9ED-98968461E8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8586D787-8984-4468-91AE-214DF99D7AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8586D787-8984-4468-91AE-214DF99D7AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8586D787-8984-4468-91AE-214DF99D7AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8586D787-8984-4468-91AE-214DF99D7AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDB2B74-08D6-4EF8-B9ED-98968461E8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDB2B74-08D6-4EF8-B9ED-98968461E8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDB2B74-08D6-4EF8-B9ED-98968461E8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDB2B74-08D6-4EF8-B9ED-98968461E8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36B5F8A-3C18-4334-854B-AEC7F2B6111A}
+	EndGlobalSection
+EndGlobal

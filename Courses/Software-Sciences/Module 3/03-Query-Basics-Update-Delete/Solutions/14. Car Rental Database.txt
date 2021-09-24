@@ -1,0 +1,81 @@
+CREATE TABLE Categories(
+Id INT PRIMARY KEY IDENTITY,
+CategoryName VARCHAR(20) NOT NULL,
+DailyRate DECIMAL(5,2),
+WeeklyRate DECIMAL(5,2),
+MonthlyRate DECIMAL(5,2),
+WeekendRate DECIMAL(5,2)
+)
+CREATE TABLE Cars(
+Id INT PRIMARY KEY IDENTITY,
+PlateNumber INT,
+Manufacturer VARCHAR(20),
+Model VARCHAR(20),
+CarYear INT,
+CategoryId INT FOREIGN KEY REFERENCES Categories(Id),
+Doors INT,
+Picture VARBINARY(2048),
+Condition TEXT,
+Available BIT
+)
+
+CREATE TABLE Employees(
+Id INT PRIMARY KEY IDENTITY,
+FirstName  VARCHAR(20),
+LastName VARCHAR(20),
+Title VARCHAR(20),
+Notes TEXT
+)
+
+CREATE TABLE Customers(
+Id INT PRIMARY KEY IDENTITY,
+DriverLicenceNumber INT,
+FullName  VARCHAR(20),
+[Address] VARCHAR(100),
+City VARCHAR (15),
+ZIPCode INT,
+Notes TEXT
+)
+
+CREATE TABLE RentalOrders(
+Id INT PRIMARY KEY IDENTITY,
+EmployeeId INT FOREIGN KEY REFERENCES Employees(Id),
+CustomerId INT FOREIGN KEY REFERENCES Customers(Id),
+CarId INT FOREIGN KEY REFERENCES Cars(Id),
+TankLevel INT,
+KilometrageStart INT,
+KilometrageEnd INT,
+TotalKilometrage INT,
+StartDate DATETIME,
+EndDate DATETIME,
+TotalDays INT,
+RateApplied DECIMAL(5,2),
+TaxRate DECIMAL(5,2),
+OrderStatus BIT,
+Notes TEXT
+)
+
+INSERT INTO Categories(CategoryName,DailyRate, WeeklyRate,MonthlyRate,WeekendRate) VALUES
+('Brichka',121.32,121.32,121.32,121.32),
+('Bricka',121.32,121.32,121.32,121.32),
+('Bricha',121.32,121.32,121.32,121.32)
+
+INSERT INTO Cars(PlateNumber,Manufacturer,Model,CarYear,CategoryId,Doors,Condition,Available) VALUES
+(125,'gosho','hubav',1987,2,4,'got',1),
+(12,'gosho','hubav',1987,2,4,'got',1),
+(25,'gosho','hubav',1987,2,4,'got',1)
+
+INSERT INTO Employees(FirstName,LastName,Title) VALUES
+('Gogo','Peshov','Pustiniak'),
+('Ggo','Pesho','Pustniak'),
+('Gog','Pesov','Pustinik')
+
+INSERT INTO Customers(DriverLicenceNumber,FullName) VALUES
+(1258,'GRISHO'),
+(158,'GRISH'),
+(258,'RISHO')
+
+INSERT INTO RentalOrders(EmployeeId,CustomerId,CarId,KilometrageStart,StartDate) VALUES
+(2,2,2,258,'01-01-2018'),
+(1,2,3,258,'01-01-2018'),
+(1,3,2,258,'01-01-2018')

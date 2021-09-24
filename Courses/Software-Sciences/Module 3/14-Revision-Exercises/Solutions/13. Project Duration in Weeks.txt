@@ -1,0 +1,12 @@
+CREATE FUNCTION udf_ProjectDurationWeeks (@Start DATETIME, @End DATETIME)
+RETURNS INT
+AS
+BEGIN
+    DECLARE @projectWeeks INT;
+    IF(@End IS NULL)
+    BEGIN
+        SET @End = GETDATE()
+    END
+    SET @projectWeeks = DATEDIFF(WEEK, @Start, @End)
+    RETURN @projectWeeks;
+END
