@@ -12,10 +12,10 @@
 ### Учебни модули за информатика и ИТ
 
 **Задължителни модули** за профилиращ предмет "**Информатика**" и минимален брой часове според наредбата на МОН:
- - МОДУЛ 1: [Обектно-ориентирано проектиране и програмиране](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module%201) (72 часа, 11 клас)
- - МОДУЛ 2: [Структури от данни и алгоритми](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module%202) (72 часа, 11 клас)
- - МОДУЛ 3: [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module%203) (72 часа, 12 клас)
- - МОДУЛ 4: [Програмиране на информационни системи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module%204) (52 часа, 12 клас)
+ - МОДУЛ 1: [Обектно-ориентирано проектиране и програмиране](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-1-OOP) (72 часа, 11 клас)
+ - МОДУЛ 2: [Структури от данни и алгоритми](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-2-DS-and-Algo) (72 часа, 11 клас)
+ - МОДУЛ 3: [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-3-Databases) (72 часа, 12 клас)
+ - МОДУЛ 4: [Програмиране на информационни системи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-4-Information-Systems) (52 часа, 12 клас)
 
 **Допълнително учебно съдържание** за профилиращ предмет "Информатика" (не се изискват от МОН, но могат да се използват в допълнителни часове от учителите):
  - [Увод в програмирането](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Basics) (54 часа) - за старт в програмирането (да научат как се работи с данни, проверки и цикли)
