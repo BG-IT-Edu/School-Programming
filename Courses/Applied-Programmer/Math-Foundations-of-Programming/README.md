@@ -19,3 +19,4 @@
 
 ## Препратки
  - https://softuni.foundation/projects/applied-software-developer-profession/mathematical-foundation-of-programming-course
+ - https://github.com/BG-IT-Edu/Free-Content/tree/main/prpetrov (курс Математически основи на програмирането ор Петър Петров)
