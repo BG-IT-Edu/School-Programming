@@ -15,5 +15,10 @@
  - Автор: учителски колектив по проект "ИТ кариера"
  - Завършеност: зависи (курсът е добре разработен, но за езика Haskell; далеч по-практично е да се направи за JavaScript)
 
+## Функционално програмиране с JS
+ - https://opensource.com/article/17/6/functional-javascript
+ - https://www.toptal.com/javascript/functional-programming-javascript
+ - https://mostly-adequate.gitbook.io/mostly-adequate-guide/
+
 ## Препратки
  - https://softuni.foundation/projects/applied-software-developer-profession/functional-programming-course
