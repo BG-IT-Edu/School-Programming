@@ -19,3 +19,4 @@
 
 ## Препратки
  - https://softuni.foundation/projects/applied-software-developer-profession/operating-systems-course
+ - https://github.com/BG-IT-Edu/Free-Content/tree/main/prpetrov (курс "Операционни системи" от Петър Петров)
