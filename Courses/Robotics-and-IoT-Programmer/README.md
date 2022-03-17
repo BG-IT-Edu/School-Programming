@@ -27,22 +27,22 @@
    - Бази данни, таблици, записи, колони, моделиране на релационна база, SQL заявки за извличане на данни, съединения на таблици, агрегация и групиране, функции
  - [Разработка на софтуер (Practical Software Development)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Practical-Software-Development) - 11-12 клас
    - Трислойна архитектура, компонентно тестване, дебъгване, рефакториране на код, инструменти за разработка, софтуерни библиотеки, пакетни мениджъри, достъп до бази данни, ORM, създаване на потребителски интерфейс, изграждане на цялостно трислойно приложение
- - [Алгоритми и структури от данни (Algorithms and Data Structures Advanced)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced) - 12 клас
+ - [Алгоритми и структури от данни (Algorithms and Data Structures Advanced)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced) - 11-12 клас
    - Алчни алгоритми, рекурсивни алгоритми, комбинаторни алгоритми, динамично оптимиране, дървовидни структури данни, хеш-таблици, графи и алгоритми върху графи
  - [Операционни системи (Operating Systems)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Operating-Systems) - 11-12 клас
    - Архитектура на ОС, ядро, обвивка, файлова система, процеси, потребители, памет, пакетни системи и инсталация на софтуер, услуги в ОС, работа с Linux shell и bash, виртуализация и контейнери
- - [Интернет програмиране (Internet and Web Development)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Internet-and-Web-Development) - 12 клас
+ - [Интернет програмиране (Internet and Web Development)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Internet-and-Web-Development) - 11-12 клас
    - HTTP протокол, уеб сървъри, уеб програмиране, уеб приложения, сесии, връзка з бази данни, MVC технологична рамка, REST APIs
  - [Математически основи на програмирането (Mathematical Foundations of Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Math-Foundations-of-Programming) - 11 клас
    - Бройни системи, статистика, системи линейни уравнения, функции, вектори, комбинаторика и вероятности
  - [Програмиране за вградени системи (Embedded Systems Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Embedded-Systems-Programming) - 11 клас
- - Интернет на нещата (IoT) - 12 клас
+ - **Интернет на нещата (IoT)** - 11-12 клас
    - Разработка на IoT системи: микроконтролери, сензори, комуникация в мрежа, събиране на данни в IoT cloud среда, отдалечено управление
- - Роботика и мехатроника - 12 клас
+ - **Роботика и мехатроника** - 12 клас
    - Роботи, роботизирана техника, конструиране на роботи, задвижване, сензори, датчици, разпознаване на образи
- - Разработващи среди за управление на роботи - 12 клас
+ - **Разработващи среди за управление на роботи** - 12 клас
    - Специализиран софтуер за програмиране и управление на роботи, софтуерни компоненти и свързване с хардуера
- - 3D моделиране, 3D сканиране и 3D печат - 12 клас
+ - **3D моделиране, 3D сканиране и 3D печат** - 12 клас
    - Софтуери за 3D моделиране и 3D анимация, 3D сканиране на обекти, 3D файлови формати, 3D принтери и 3D печат
 
 ### Нормативни документи
