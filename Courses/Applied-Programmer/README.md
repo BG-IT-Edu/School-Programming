@@ -40,7 +40,7 @@
  - [Софтуерно инженерство (Software Engineering Concepts)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Software-Engineering-Concepts) - 12 клас
    - Софтуерна разработка, работа с чужд код, сорс-контрол системи, софтуерно тестване, процеси и методологии
  - [Функционално програмиране (Functional Programming)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Functional-Programming-Haskell) - 12 клас
-   - Функции, стойности, състояние, чисти функции, програмиране без променливи и цикли, обработка на списъци, фнкции от по-висок ред, lambda функции, closures
+   - Функции, стойности, състояние, чисти функции, програмиране без променливи и цикли, обработка на списъци, функции от по-висок ред, lambda функции, closures
  - [Алгоритми и структури от данни (Algorithms and Data Structures Advanced)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Algo-and-Data-Structures-Advanced) - 12 клас
    - Алчни алгоритми, рекурсивни алгоритми, комбинаторни алгоритми, динамично оптимиране, дървовидни структури данни, хеш-таблици, графи и алгоритми върху графи
 
