@@ -4,7 +4,9 @@
 
 ## Учебна програма
 
-Учебна програма по "Роботика и мехатроника": https://softuni.foundation/projects/applied-software-developer-profession/robotics-and-mechatronics-course
+[Учебна програма по "Роботика и мехатроника"](https://softuni.foundation/projects/applied-software-developer-profession/robotics-and-mechatronics-course)
 
 ## Учебни ресурси
+
+[Въведение в роботиката, мехатрониката и програмирането - учебно помагало](https://github.com/BG-IT-Edu/School-Programming/blob/main/Courses/Robotics-and-IoT-Programmer/Robotics-and-Mechatronics/Intro-to-robotics-mechatronics-and-programming-for-school.pdf)
 
