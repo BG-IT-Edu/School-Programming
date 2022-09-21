@@ -22,3 +22,4 @@
 
 ## Препратки
  - https://softuni.foundation/projects/applied-software-developer-profession/databases-course
+ - Модул "бази данни" от профил "Софтуерни и хардуерни науки": https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Databases-and-SQL
