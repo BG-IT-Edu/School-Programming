@@ -14,7 +14,7 @@
 | 08 | String Processing                    |       2       |        2        |
 | 09 | Regular Expressions                  |       2       |        2        |
 | 10 | Additional Exercises*                |       0       |        4        |
-| 11 | Excpetion Handling                   |       2       |        2        |
+| 11 | Exception Handling                   |       2       |        2        |
 | 12 | Streams & Files                      |       2       |        2        |
 | 13 | Generics                             |       2       |        2        |
 | 14 | Iterators & Comparators*             |       2       |        2        |
