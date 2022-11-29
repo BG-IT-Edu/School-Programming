@@ -13,6 +13,7 @@
  - [**професия "Програмист на изкуствен интелект"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/AI-Programmer) в професионалните гимназии
  - [**професия "Програмист на роботи"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Robotics-and-IoT-Programmer) в професионалните гимназии
  - [**профил "Софтуерни и хардуерни науки"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences) в профилираните гимназии
+ - компютърно моделиране и информационни технологии (1-7 клас)
  
 ## Екип
  
