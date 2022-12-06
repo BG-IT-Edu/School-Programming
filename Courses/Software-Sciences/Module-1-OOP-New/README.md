@@ -24,6 +24,7 @@
 | 14 | Delegates and Events                 |       2       |        2        |
 | 15 | Design Patterns*                     |       2       |        2        |
 | 16 | SOLID Principles*                    |       2       |        2        |
+TODO: GUI Apps
 |    | Задължителни часове                  |       20      |        32       |
 |    | Резерв часове                        |       0       |        20       |
 |    | Допълнителни часове                  |       6       |        6        |
