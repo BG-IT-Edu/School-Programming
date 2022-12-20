@@ -13,12 +13,13 @@
 | 01 | Introduction to Programming          |       2       |        2        |
 | 02 | Conditional Statements - Basics      |       2       |        4        |
 | 02 | Conditional Statements - Advanced *  |       2       |        2        |
-| 02 | Conditional - Additional Exercises * |       0       |        2        |
+| 02 | Conditional - More Exercises *       |       0       |        2        |
 | 03 | Loops - Basics                       |       2       |        4        |
 | 03 | Loops - Advanced *                   |       2       |        2        |
-| 03 | Loops - Additional Exercises *       |       0       |        2        |
+| 03 | Loops - More Exercises *             |       0       |        2        |
 | 06 | Methods                              |       2       |        2        |
-| 07 | Classes and Objects                  |       2       |        2        |
+| 07 | Classes and Objects                  |       2       |        4        |
+| 07 | Classes & Objects - More Exercises * |       0       |        2        |
 | 08 | Unit Testing *                       |       2       |        2        |
 | 09 | Encapsulation                        |       2       |        2        |
 | 10 | Inheritance                          |       2       |        2        |
