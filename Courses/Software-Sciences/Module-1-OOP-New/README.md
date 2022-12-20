@@ -24,7 +24,7 @@
 | 09 | Encapsulation                        |       2       |        2        |
 | 10 | Inheritance                          |       2       |        2        |
 | 11 | Abstract Classes and Interfaces      |       2       |        2        |
-| 12 | Additional Exercises                 |       0       |        4        |
+| 12 | OOP - Additional Exercises *         |       0       |        4        |
 | 13 | Polymorphism                         |       2       |        2        |
 | 14 | Delegates and Events                 |       2       |        2        |
 | 15 | Design Patterns *                    |       2       |        2        |
