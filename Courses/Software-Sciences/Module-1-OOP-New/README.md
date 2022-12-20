@@ -11,21 +11,23 @@
 |    | Наименование на урока                | Часове теория | Часове практика |
 |----|--------------------------------------|---------------|-----------------|
 | 01 | Introduction to Programming          |       2       |        2        |
-| 02 | Conditional Statements               |       2       |        4        |
-| 03 | Additional Exercises                 |       0       |        2        |
-| 04 | Loops                                |       2       |        4        |
-| 05 | Additional Exercises                 |       0       |        2        |
+| 02 | Conditional Statements - Basics      |       2       |        4        |
+| 02 | Conditional Statements - Advanced *  |       2       |        2        |
+| 02 | Conditional - Additional Exercises * |       0       |        2        |
+| 03 | Loops - Basics                       |       2       |        4        |
+| 03 | Loops - Advanced *                   |       2       |        2        |
+| 03 | Loops - Additional Exercises *       |       0       |        2        |
 | 06 | Methods                              |       2       |        2        |
 | 07 | Classes and Objects                  |       2       |        2        |
-| 08 | Unit Testing*                        |       2       |        2        |
+| 08 | Unit Testing *                       |       2       |        2        |
 | 09 | Encapsulation                        |       2       |        2        |
 | 10 | Inheritance                          |       2       |        2        |
 | 11 | Abstract Classes and Interfaces      |       2       |        2        |
 | 12 | Additional Exercises                 |       0       |        4        |
 | 13 | Polymorphism                         |       2       |        2        |
 | 14 | Delegates and Events                 |       2       |        2        |
-| 15 | Design Patterns*                     |       2       |        2        |
-| 16 | SOLID Principles*                    |       2       |        2        |
+| 15 | Design Patterns *                    |       2       |        2        |
+| 16 | SOLID Principles *                   |       2       |        2        |
 TODO: GUI Apps
 TODO: Practical Projects
 |    | Задължителни часове                  |       20      |        32       |
@@ -41,4 +43,3 @@ TODO: Practical Projects
 **Внимание**: официалната учебна програма на МОН има неизправности и **трябва да се адаптира**!
   - Ако следваме официалната учебна програма, ще трябва от запознаване с концепцията "език за програмиране" да прескочим директно на дефиниция на "клас, обект и ООП", което не е разумно. **Преди това учениците трябва да се научат да пишат код**: работа със среда за разработка и език за програмиране, работа с променливи и данни, условни конструкции, цикли и функции (методи).
   - Поради горното съображение силно препоръчваме на всички учители да преминат със своите ученици първо през **основите на програмирането** (coding basics) и след това да продължат с класове, обекти и ООП.
-
