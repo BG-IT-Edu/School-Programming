@@ -25,12 +25,14 @@
 | 03 | Loops - Basics                         |       2       |        4        |
 | 03 | Loops - Advanced *                     |       2       |        2        |
 | 03 | Loops - More Exercises **              |       0       |        2        |
-| 06 | Methods                                |       2       |        2        |
-| 07 | Classes and Objects                    |       2       |        4        |
-| 07 | Classes & Objects - More Exercises *   |       0       |        2        |
-| 08 | Unit Testing *                         |       2       |        2        |
-| 09 | Encapsulation                          |       2       |        2        |
-| 10 | Inheritance                            |       2       |        2        |
+| 04 | Methods - Basics                       |       2       |        2        |
+| 04 | Methods - Advanced *                   |       2       |        2        |
+| 05 | Classes & Objects                      |       2       |        4        |
+| 05 | Classes & Objects - More Exercises *   |       0       |        2        |
+| 06 | Unit Testing - Basics *                |       2       |        2        |
+| 06 | Unit Testing - Advanced **             |       2       |        2        |
+| 07 | Encapsulation                          |       2       |        2        |
+| 08 | Inheritance                            |       2       |        2        |
 | 11 | Abstract Classes and Interfaces        |       2       |        2        |
 | 12 | OOP - Additional Exercises *           |       0       |        4        |
 | 13 | Polymorphism                           |       2       |        2        |
