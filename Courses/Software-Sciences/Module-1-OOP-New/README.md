@@ -19,9 +19,10 @@
 |    | Наименование на урока                  | Часове теория | Часове практика |
 |----|----------------------------------------|---------------|-----------------|
 | 01 | Introduction to Programming            |       2       |        2        |
-| 02 | Conditional Statements - Basics        |       2       |        4        |
-| 02 | Conditional Statements - Advanced *    |       2       |        2        |
-| 02 | Conditional - More Exercises **        |       0       |        2        |
+| 02 | GUI Apps with Windows Forms            |       2       |        2        | 
+| 03 | Conditional Statements - Basics        |       2       |        4        |
+| 03 | Conditional Statements - Advanced *    |       2       |        2        |
+| 03 | Conditional - More Exercises **        |       0       |        2        |
 | 03 | Loops - Basics                         |       2       |        4        |
 | 03 | Loops - Advanced *                     |       2       |        2        |
 | 03 | Loops - More Exercises **              |       0       |        2        |
@@ -37,7 +38,6 @@
 | 10 | OOP - Additional Exercises *           |       0       |        4        |
 | 11 | Polymorphism                           |       2       |        2        |
 | 12 | Delegates and Events                   |       2       |        2        |
-| 13 | GUI Apps                               |       2       |        2        | 
 | 14 | Design Patterns **                     |       2       |        2        |
 | 15 | SOLID Principles **                    |       2       |        2        |
 | 16 | Practical Projects                     |       2       |        2        |
