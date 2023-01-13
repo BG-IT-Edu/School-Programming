@@ -19,9 +19,10 @@
 |    | Наименование на урока                  | Часове теория | Часове практика |
 |----|----------------------------------------|---------------|-----------------|
 | 01 | Introduction to Programming            |       2       |        2        |
-| 02 | Conditional Statements - Basics        |       2       |        4        |
-| 02 | Conditional Statements - Advanced *    |       2       |        2        |
-| 02 | Conditional - More Exercises **        |       0       |        2        |
+| 02 | GUI Apps with Windows Forms            |       2       |        2        | 
+| 03 | Conditional Statements - Basics        |       2       |        4        |
+| 03 | Conditional Statements - Advanced *    |       2       |        2        |
+| 03 | Conditional - More Exercises **        |       0       |        2        |
 | 03 | Loops - Basics                         |       2       |        4        |
 | 03 | Loops - Advanced *                     |       2       |        2        |
 | 03 | Loops - More Exercises **              |       0       |        2        |
@@ -33,14 +34,13 @@
 | 06 | Unit Testing - Advanced **             |       2       |        2        |
 | 07 | Encapsulation                          |       2       |        2        |
 | 08 | Inheritance                            |       2       |        2        |
-| 11 | Abstract Classes and Interfaces        |       2       |        2        |
-| 12 | OOP - Additional Exercises *           |       0       |        4        |
-| 13 | Polymorphism                           |       2       |        2        |
-| 14 | Delegates and Events                   |       2       |        2        |
-| 15 | Design Patterns **                     |       2       |        2        |
-| 16 | SOLID Principles **                    |       2       |        2        |
-| 17 | GUI Apps                               |       2       |        2        | 
-| 18 | Practical Projects                     |       2       |        2        |
+| 09 | Abstract Classes and Interfaces        |       2       |        2        |
+| 10 | OOP - Additional Exercises *           |       0       |        4        |
+| 11 | Polymorphism                           |       2       |        2        |
+| 12 | Delegates and Events                   |       2       |        2        |
+| 14 | Design Patterns **                     |       2       |        2        |
+| 15 | SOLID Principles **                    |       2       |        2        |
+| 16 | Practical Projects                     |       2       |        2        |
 |    | Задължителни часове (базов вариант)    |       20      |        32       |
 |    | Резерв часове (базов вариант)          |       0       |        20       |
 |    | Общ брой часове (базов вариант)        |       26      |        58       |
