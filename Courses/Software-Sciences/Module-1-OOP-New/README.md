@@ -16,50 +16,50 @@
 
 Примерно разпределение на часовете включва темите и часовете за теория и упражнения в трите предложени варианта:
 
-| Тема | Наименование на урока                   | Часове теория | Часове практика |
-|------|-----------------------------------------|---------------|-----------------|
-| 01   | Introduction to Programming             |       2       |        2        |
-| 02   | GUI Apps with Windows Forms             |       2       |        2        | 
-| 03.1 | Conditional Statements - Basics         |       2       |        4        |
-| 03.2 | Conditional Statements - Advanced *     |       1       |        2        |
-| 03.3 | Conditional - More Exercises **         |       0       |        3        |
-| 04.1 | Loops - Basics                          |       2       |        4        |
-| 04.2 | Loops - Advanced *                      |       1       |        2        |
-| 04.3 | Loops - More Exercises **               |       0       |        3        |
-| 05.1 | Methods - Basics                        |       2       |        2        |
-| 05.2 | Methods - Advanced *                    |       2       |        3        |
-| 06.1 | Classes & Objects - Basics              |       2       |        4        |
-| 06.2 | Classes & Objects - Advanced *          |       1       |        2        |
-| 06.3 | Classes & Objects - More Exercises **   |       0       |        3        |
-| 07.1 | Unit Testing - Basics                   |       1       |        1        |
-| 07.2 | Unit Testing - Advanced *               |       2       |        2        |
-| 07.3 | Unit Testing - More Exercises **        |       2       |        4        |
-| 08.1 | Encapsulation - Basic                   |       2       |        2        |
-| 08.2 | Encapsulation - Advanced *              |       1       |        1        |
-| 09.1 | Inheritance - Basic                     |       2       |        2        |
-| 09.2 | Inheritance - Advanced *                |       1       |        1        |
-| 10.1 | Abstract Classes and Interfaces         |       2       |        2        |
-| 10.2 | Interfaces - More Exercises *           |       0       |        2        |
-| 10.3 | Interfaces - Additional Exercises **    |       0       |        2        |
-| 11.1 | Polymorphism                            |       2       |        2        |
-| 11.2 | Polymorphism - More Exercises *         |       0       |        2        |
-| 12.1 | Delegates and Events - Basic            |       1       |        1        |
-| 12.2 | Delegates and Events - Advanced *       |       2       |        2        |
-| 13   | Design Patterns **                      |       2       |        2        |
-| 14   | SOLID Principles **                     |       2       |        2        |
-| 15.1 | Practical Projects: Rock-Paper-Scissors |       0       |        4        |
-| 15.2 | Practical Projects: Guess a Number      |       0       |        4        |
-| 15.3 | Practical Projects: Quick Draw *        |       0       |        4        |
-| 15.4 | Practical Projects: Random Sentences *  |       0       |        6        |
-|      | Задължителни часове (базов вариант)     |       20      |        32       |
-|      | Резерв часове (базов вариант)           |       0       |        20       |
-|      | Общ брой часове (базов вариант)         |       26      |        58       |
-|      | Задължителни часове (разширен вариант)  |       20      |        32       |
-|      | Резерв часове (разширен вариант)        |       0       |        20       |
-|      | Общ брой часове (разширен вариант)      |       26      |        58       |
-|      | Задължителни часове (вариант експерт)   |       20      |        32       |
-|      | Резерв часове (вариант експерт)         |       0       |        20       |
-|      | Общ брой часове (вариант експерт)       |       26      |        58       |
+| Тема | Наименование на урока                   | Часове теория | Часове практика | Часове общо |
+|------|-----------------------------------------|---------------|-----------------|-------------|
+| 01   | Introduction to Programming             |       2       |        2        |      4      |
+| 02   | GUI Apps with Windows Forms             |       2       |        2        |      4      | 
+| 03.1 | Conditional Statements - Basics         |       2       |        4        |      6      |
+| 03.2 | Conditional Statements - Advanced *     |       1       |        2        |      3      |
+| 03.3 | Conditional - More Exercises **         |       0       |        3        |      3      |
+| 04.1 | Loops - Basics                          |       2       |        4        |      6      |
+| 04.2 | Loops - Advanced *                      |       1       |        2        |      3      |
+| 04.3 | Loops - More Exercises **               |       0       |        3        |      3      |
+| 05.1 | Methods - Basics                        |       2       |        2        |      4      |
+| 05.2 | Methods - Advanced *                    |       2       |        3        |      5      |
+| 06.1 | Classes & Objects - Basics              |       2       |        4        |      6      |
+| 06.2 | Classes & Objects - Advanced *          |       1       |        2        |      3      |
+| 06.3 | Classes & Objects - More Exercises **   |       0       |        3        |      3      |
+| 07.1 | Unit Testing - Basics                   |       1       |        1        |      2      |
+| 07.2 | Unit Testing - Advanced *               |       2       |        2        |      4      |
+| 07.3 | Unit Testing - More Exercises **        |       2       |        4        |      6      |
+| 08.1 | Encapsulation - Basic                   |       2       |        2        |      4      |
+| 08.2 | Encapsulation - Advanced *              |       1       |        1        |      2      |
+| 09.1 | Inheritance - Basic                     |       2       |        2        |      4      |
+| 09.2 | Inheritance - Advanced *                |       1       |        1        |      2      |
+| 10.1 | Abstract Classes and Interfaces         |       2       |        2        |      4      |
+| 10.2 | Interfaces - More Exercises *           |       0       |        2        |      2      |
+| 10.3 | Interfaces - Additional Exercises **    |       0       |        2        |      2      |
+| 11.1 | Polymorphism                            |       2       |        2        |      4      |
+| 11.2 | Polymorphism - More Exercises *         |       0       |        2        |      2      |
+| 12.1 | Delegates and Events - Basic            |       1       |        1        |      2      |
+| 12.2 | Delegates and Events - Advanced *       |       2       |        2        |      4      |
+| 13   | Design Patterns **                      |       2       |        2        |      4      |
+| 14   | SOLID Principles **                     |       2       |        2        |      4      |
+| 15.1 | Practical Projects: Rock-Paper-Scissors |       0       |        4        |      4      |
+| 15.2 | Practical Projects: Guess a Number      |       0       |        4        |      4      |
+| 15.3 | Practical Projects: Quick Draw *        |       0       |        4        |      4      |
+| 15.4 | Practical Projects: Random Sentences *  |       0       |        6        |      6      |
+|      | Задължителни часове (базов вариант)     |      22       |       36        |     58      |
+|      | Резерв часове (базов вариант)           |       6       |        8        |     14      |
+|      | Общ брой часове (базов вариант)         |      28       |       44        |     72      |
+|      | Задължителни часове (разширен вариант)  |      33       |       65        |     98      |
+|      | Резерв часове (разширен вариант)        |       3       |        7        |     10      |
+|      | Общ брой часове (разширен вариант)      |      36       |       72        |    108      |
+|      | Задължителни часове (вариант експерт)   |      39       |       84        |    123      |
+|      | Резерв часове (вариант експерт)         |       8       |       13        |     21      |
+|      | Общ брой часове (вариант експерт)       |      47       |       97        |    144      |
 
 ## Официална учебна програма от МОН
 
