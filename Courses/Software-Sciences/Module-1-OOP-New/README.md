@@ -28,37 +28,39 @@
 | 04.3 | Loops - More Exercises **               |       0       |        3        |      3      |
 | 05.1 | Methods - Basics                        |       2       |        2        |      4      |
 | 05.2 | Methods - Advanced *                    |       2       |        3        |      5      |
-| 06.1 | Classes & Objects - Basics              |       2       |        4        |      6      |
-| 06.2 | Classes & Objects - Advanced *          |       1       |        2        |      3      |
-| 06.3 | Classes & Objects - More Exercises **   |       0       |        3        |      3      |
-| 07.1 | Unit Testing - Basics                   |       1       |        1        |      2      |
-| 07.2 | Unit Testing - Advanced *               |       2       |        2        |      4      |
-| 07.3 | Unit Testing - More Exercises **        |       2       |        4        |      6      |
-| 08.1 | Encapsulation - Basic                   |       2       |        2        |      4      |
-| 08.2 | Encapsulation - Advanced *              |       1       |        1        |      2      |
-| 09.1 | Inheritance - Basic                     |       2       |        2        |      4      |
-| 09.2 | Inheritance - Advanced *                |       1       |        1        |      2      |
-| 10.1 | Abstract Classes and Interfaces         |       2       |        2        |      4      |
-| 10.2 | Interfaces - More Exercises *           |       0       |        2        |      2      |
-| 10.3 | Interfaces - Additional Exercises **    |       0       |        2        |      2      |
-| 11.1 | Polymorphism                            |       2       |        2        |      4      |
-| 11.2 | Polymorphism - More Exercises *         |       0       |        2        |      2      |
-| 12.1 | Delegates and Events - Basic            |       1       |        1        |      2      |
-| 12.2 | Delegates and Events - Advanced *       |       2       |        2        |      4      |
-| 13   | Design Patterns **                      |       2       |        2        |      4      |
-| 14   | SOLID Principles **                     |       2       |        2        |      4      |
-| 15.1 | Practical Projects: Rock-Paper-Scissors |       0       |        4        |      4      |
-| 15.2 | Practical Projects: Guess a Number      |       0       |        4        |      4      |
-| 15.3 | Practical Projects: Quick Draw *        |       0       |        4        |      4      |
-| 15.4 | Practical Projects: Random Sentences *  |       0       |        6        |      6      |
-|      | Задължителни часове (базов вариант)     |      22       |       36        |     58      |
-|      | Резерв часове (базов вариант)           |       6       |        8        |     14      |
-|      | Общ брой часове (базов вариант)         |      28       |       44        |     72      |
-|      | Задължителни часове (разширен вариант)  |      33       |       65        |     98      |
-|      | Резерв часове (разширен вариант)        |       3       |        7        |     10      |
+| 06   | Mid Exam: Coding Basics                 |       0       |        2        |      2      |
+| 07.1 | Classes & Objects - Basics              |       2       |        4        |      6      |
+| 07.2 | Classes & Objects - Advanced *          |       1       |        2        |      3      |
+| 07.3 | Classes & Objects - More Exercises **   |       0       |        3        |      3      |
+| 08.1 | Unit Testing - Basics                   |       1       |        1        |      2      |
+| 08.2 | Unit Testing - Advanced *               |       2       |        2        |      4      |
+| 08.3 | Unit Testing - More Exercises **        |       2       |        4        |      6      |
+| 09.1 | Encapsulation - Basic                   |       2       |        2        |      4      |
+| 09.2 | Encapsulation - Advanced *              |       1       |        1        |      2      |
+| 10.1 | Inheritance - Basic                     |       2       |        2        |      4      |
+| 10.2 | Inheritance - Advanced *                |       1       |        1        |      2      |
+| 11.1 | Abstract Classes and Interfaces         |       2       |        2        |      4      |
+| 11.2 | Interfaces - More Exercises *           |       0       |        2        |      2      |
+| 11.3 | Interfaces - Additional Exercises **    |       0       |        2        |      2      |
+| 12.1 | Polymorphism                            |       2       |        2        |      4      |
+| 12.2 | Polymorphism - More Exercises *         |       0       |        2        |      2      |
+| 13.1 | Delegates and Events - Basic            |       1       |        1        |      2      |
+| 13.2 | Delegates and Events - Advanced *       |       2       |        2        |      4      |
+| 14   | Final Exam: Object-Oriented Programming |       0       |        2        |      2      |
+| 15   | Design Patterns **                      |       2       |        2        |      4      |
+| 16   | SOLID Principles **                     |       2       |        2        |      4      |
+| 17.1 | Practical Projects: Rock-Paper-Scissors |       0       |        4        |      4      |
+| 17.2 | Practical Projects: Guess a Number      |       0       |        4        |      4      |
+| 17.3 | Practical Projects: Quick Draw *        |       0       |        4        |      4      |
+| 17.4 | Practical Projects: Random Sentences *  |       0       |        6        |      6      |
+|      | Задължителни часове (базов вариант)     |      22       |       40        |     62      |
+|      | Резерв часове (базов вариант)           |       4       |        6        |     10      |
+|      | Общ брой часове (базов вариант)         |      26       |       46        |     72      |
+|      | Задължителни часове (разширен вариант)  |      33       |       63        |     96      |
+|      | Резерв часове (разширен вариант)        |       6       |        6        |     12      |
 |      | Общ брой часове (разширен вариант)      |      36       |       72        |    108      |
-|      | Задължителни часове (вариант експерт)   |      39       |       84        |    123      |
-|      | Резерв часове (вариант експерт)         |       8       |       13        |     21      |
+|      | Задължителни часове (вариант експерт)   |      39       |       86        |    125      |
+|      | Резерв часове (вариант експерт)         |       8       |       11        |     19      |
 |      | Общ брой часове (вариант експерт)       |      47       |       97        |    144      |
 
 ## Официална учебна програма от МОН
