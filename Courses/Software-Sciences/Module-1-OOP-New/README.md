@@ -50,8 +50,7 @@
 | 15.1 | Practical Projects: Rock-Paper-Scissors |       0       |        4        |
 | 15.2 | Practical Projects: Guess a Number      |       0       |        4        |
 | 15.3 | Practical Projects: Quick Draw *        |       0       |        4        |
-| 15.4 | Practical Projects: Random Sentences *  |       0       |        4        |
-
+| 15.4 | Practical Projects: Random Sentences *  |       0       |        6        |
 |      | Задължителни часове (базов вариант)     |       20      |        32       |
 |      | Резерв часове (базов вариант)           |       0       |        20       |
 |      | Общ брой часове (базов вариант)         |       26      |        58       |
