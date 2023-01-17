@@ -22,7 +22,7 @@
 | 02   | GUI Apps with Windows Forms             |       2       |        2        |      4      | 
 | 03.1 | Conditional Statements - Basics         |       2       |        4        |      6      |
 | 03.2 | Conditional Statements - Advanced *     |       1       |        2        |      3      |
-| 03.3 | Conditional - More Exercises **         |       0       |        3        |      3      |
+| 03.3 | Conditionals - More Exercises **        |       0       |        3        |      3      |
 | 04.1 | Loops - Basics                          |       2       |        4        |      6      |
 | 04.2 | Loops - Advanced *                      |       1       |        2        |      3      |
 | 04.3 | Loops - More Exercises **               |       0       |        3        |      3      |
