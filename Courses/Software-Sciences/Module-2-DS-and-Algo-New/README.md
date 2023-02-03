@@ -82,6 +82,7 @@
 | 20 | Sorting & Searching Algorithms       |       2       |        2        |
 | 21 | Additional Exercises *               |       0       |        4        |
 | 22 | Refactoring Code *                   |       4       |        4        |
+| 23 | Unit Testing                         |       4       |        4        |
 |    | Задължителни часове                  |       30      |        30       |
 |    | Резерв часове                        |       0       |        12       |
 |    | Допълнителни часове                  |       6       |        26       |
