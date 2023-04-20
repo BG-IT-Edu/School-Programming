@@ -58,37 +58,57 @@
 
 Примерно разпределение на часовете включва темите и часовете за теория и упражнения в трите предложени варианта:
 
-|    | Наименование на урока                | Часове теория | Часове практика |
-|----|--------------------------------------|---------------|-----------------|
-| 01 | Arrays                               |       2       |        2        |
-| 01 | Arrays - Advanced *                  |       2       |        2        |
-| 02 | Lists                                |       2       |        2        |
-| 02 | Lists - Advanced *                   |       2       |        2        |
-| 03 | Additional Exercises *               |       0       |        4        |
-| 04 | Stack & Queue                        |       2       |        2        |
-| 05 | Multidimentional Arrays              |       2       |        2        |
-| 06 | Additional Exercises *               |       0       |        4        |
-| 07 | Sets & Dictionaries                  |       2       |        2        |
-| 08 | String Processing                    |       2       |        2        |
-| 09 | Regular Expressions *                |       2       |        2        |
-| 10 | Additional Exercises *               |       0       |        4        |
-| 11 | Exception Handling                   |       2       |        2        |
-| 12 | Streams & Files                      |       2       |        2        |
-| 13 | Generics                             |       2       |        2        |
-| 14 | Iterators & Comparators *            |       2       |        2        |
-| 15 | Additional Exercises *               |       0       |        4        |
-| 16 | Algorithms Intro & Complexity        |       2       |        2        |
-| 17 | Recursion                            |       2       |        2        |
-| 18 | Intro to Data Structures             |       2       |        2        |
-| 19 | Graphs & Trees                       |       2       |        2        |
-| 20 | Sorting & Searching Algorithms       |       2       |        2        |
-| 21 | Additional Exercises *               |       0       |        4        |
-| 22 | Refactoring Code *                   |       4       |        4        |
-| 23 | Unit Testing                         |       4       |        4        |
-|    | Задължителни часове                  |       30      |        30       |
-|    | Резерв часове                        |       0       |        12       |
-|    | Допълнителни часове                  |       6       |        26       |
-|    | Общ брой часове                      |       36      |        68       |
+|      | Наименование на урока                                   | Часове теория | Часове практика | Часове общо |
+|------|---------------------------------------------------------|---------------|-----------------|-------------|
+| 01.1 | Arrays - Basics                                         |       2       |        2        |      4      |
+| 01.2 | Arrays - Advanced *                                     |       0       |        2        |      2      |
+| 01.3 | Arrays - More exercises **                              |       0       |        2        |      2      |
+| 02.1 | Lists - Basics                                          |       2       |        2        |      4      |
+| 02.2 | Lists - Advanced *                                      |       0       |        2        |      2      |
+| 02.3 | Lists - More exercises **                               |       0       |        2        |      2      |
+| 03.1 | Stack & Queue - Basics                                  |       2       |        2        |      4      |
+| 03.2 | Stack & Queue - Advanced *                              |       0       |        2        |      2      |
+| 03.3 | Stack & Queue - More exercises **                       |       0       |        2        |      2      |
+| 04.1 | Multidimentional Arrays - Basics                        |       2       |        2        |      4      |
+| 04.2 | Multidimentional Arrays - Advanced *                    |       0       |        2        |      2      |
+| 04.3 | Multidimentional Arrays - More Excercises **            |       0       |        2        |      2      |
+| 05.1 | Sets & Dictionaries - Basics                            |       2       |        2        |      4      |
+| 05.2 | Sets & Dictionaries - Advanced *                        |       0       |        2        |      2      |
+| 05.3 | Sets & Dictionaries - More Exercises **                 |       0       |        2        |      2      |
+| 06.1 | String Processing - Basics                              |       2       |        2        |      4      |
+| 06.2 | String Processing - Advanced *                          |       0       |        2        |      2      |
+| 06.3 | String Processing - More Exercises **                   |       0       |        2        |      2      |
+| 07   | Mid Exam                                                |       0       |        2        |      2      |
+| 08.1 | Regular Expressions - Basics                            |       2       |        2        |      4      |
+| 08.2 | Regular Expressions - Advanced *                        |       2       |        3        |      5      |
+| 09   | Exception Handling                                      |       2       |        2        |      4      |
+| 10.1 | Streams & Files                                         |       2       |        2        |      4      |
+| 10.2 | GUI Apps - Streams & Files *                            |       2       |        2        |      4      |
+| 11   | Algorithms Intro & Complexity                           |       2       |        2        |      4      |
+| 12   | Recursion                                               |       2       |        2        |      4      |
+| 13.1 | Data Structures - Overview - Basics                     |       2       |        2        |      4      |
+| 13.2 | Data Structures - Overview - Advanced *                 |       2       |        3        |      5      |
+| 14.1 | Combining Data Structures - Basics                      |       2       |        2        |      4      |
+| 14.2 | Combining Data Structures - Advanced *                  |       0       |        2        |      2      |
+| 15   | Sorting & Searching Algorithms                          |       2       |        2        |      4      |
+| 16.1 | Combinatorial Algorithms *                              |       2       |        1        |      3      |
+| 16.2 | Combinatorial Algorithms **                             |       0       |        3        |      5      |
+| 17   | Recursive Algs and Backtracking *                       |       1       |        2        |      3      |
+| 18   | Final Exam                                              |       0       |        2        |      2      |
+| 19.1 | High Quality Code and Refactoring - Basics              |       3       |        1        |      4      |
+| 19.2 | High Quality Code and Refactoring - Advanced *          |       0       |        2        |      2      |
+| 19.3 | High Quality Code and Refactoring - More Exercises  **  |       0       |        2        |      2      |
+| 20.1 | Unit Testing *                                          |       1       |        2        |      3      |
+| 20.2 | Unit Testing **                                         |       2       |        3        |      5      |
+|      | Задължителни часове (базов вариант)                     |      31       |       33        |     64      |
+|      | Резерв часове (базов вариант)                           |       4       |        4        |      8      |
+|      | Общ брой часове (базов вариант)                         |      35       |       37        |     72      |
+|      | Задължителни часове (разширен вариант)                  |      41       |       62        |    103      |
+|      | Резерв часове (разширен вариант)                        |       2       |        3        |      5      |
+|      | Общ брой часове (разширен вариант)                      |      43       |       65        |    108      |
+|      | Задължителни часове (вариант експерт)                   |      43       |       82        |    125      |
+|      | Резерв часове (вариант експерт)                         |       9       |       10        |     19      |
+|      | Общ брой часове (вариант експерт)                       |      52       |       92        |    144      |
 
 ## Официална учебна програма от МОН
 
