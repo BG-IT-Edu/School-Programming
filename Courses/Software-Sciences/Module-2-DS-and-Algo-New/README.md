@@ -26,36 +26,14 @@
   - 1-2 слайда + демо за избор на файл
   - GUI app: избор на текстов файл, визуализация, някаква обработка, запис на резултата в друг файл
 
-**13-Generics**
-  - отпада от старите материали, защото не се изисква от МОН
-
-**14-Iterators-and-Comparators**
-  - отпада, зашото не се изисква от МОН
-
-**15.3-Iterators-and-Comparators-Lab**
-  - отпада също
-
-**19-Trees-and-Graphs**
-  - отпада, защото от МОН не изискват задълбочени познания по дървета и графи
-
-**Нова тема: Combinatorial-Algorithms**
-  - имаме я в ресурсите: 03.Recursive-Algo-Backtracking (за 0/1 Vectors)
-  - имаме я в ресурсите: 08.Combinatorial-Algorithms (за генериране на комбинаторни конфигурации)
-
 **18-Intro-to-Data-Structures**
   - име на темата "Data Structures - Overview"
   - да махнем сложнотиите за хеш-таблици и колизии
   - да добавим по няколко слайда за графи и дървета (дефиниции + картинки)
-
-**Нова тема: Combining-Data-Structures**
-  - имаме я в ресурсите
   
 **Unit Testing**
   - да го преместим от курса по ООП в Структури от данни
   - да добавим 2-3 слайда на тема "какво е тестване и видове тестване"
-
-**Замяна на тема: High-Quality-Code**
-  - старата тема "Качествен код" да се замени с новата от ресурсите, защото е по-добре направена
 
 
 ## Разпределение на часовете
@@ -89,30 +67,31 @@
 | 10.1 | Streams & Files                                         |       2       |        2        |      4      |
 | 10.2 | GUI Apps - Streams & Files *                            |       2       |        2        |      4      |
 | 11   | Algorithms Intro & Complexity                           |       2       |        2        |      4      |
-| 12   | Recursion                                               |       2       |        2        |      4      |
-| 13.1 | Data Structures - Overview - Basics                     |       2       |        2        |      4      |
-| 13.2 | Data Structures - Overview - Advanced *                 |       2       |        3        |      5      |
-| 14.1 | Combining Data Structures - Basics                      |       2       |        2        |      4      |
-| 14.2 | Combining Data Structures - Advanced *                  |       0       |        2        |      2      |
-| 15   | Sorting & Searching Algorithms                          |       2       |        2        |      4      |
-| 16.1 | Combinatorial Algorithms *                              |       2       |        1        |      3      |
-| 16.2 | Combinatorial Algorithms **                             |       0       |        3        |      5      |
-| 17   | Recursive Algs and Backtracking *                       |       1       |        2        |      3      |
-| 18   | Final Exam                                              |       0       |        2        |      2      |
-| 19.1 | High Quality Code and Refactoring - Basics              |       3       |        1        |      4      |
-| 19.2 | High Quality Code and Refactoring - Advanced *          |       0       |        2        |      2      |
-| 19.3 | High Quality Code and Refactoring - More Exercises  **  |       0       |        2        |      2      |
-| 20.1 | Unit Testing *                                          |       1       |        2        |      3      |
-| 20.2 | Unit Testing **                                         |       2       |        3        |      5      |
-|      | Задължителни часове (базов вариант)                     |      31       |       33        |     64      |
-|      | Резерв часове (базов вариант)                           |       4       |        4        |      8      |
+| 12.1 | Data Structures - Overview - Basics                     |       2       |        2        |      4      |
+| 12.2 | Data Structures - Overview - Advanced *                 |       2       |        3        |      5      |
+| 13.1 | Combining Data Structures - Basics                      |       2       |        0        |      2      |
+| 13.2 | Combining Data Structures - More Exercises **           |       0       |        2        |      2      |
+| 14   | Sorting & Searching Algorithms                          |       2       |        2        |      4      |
+| 15.1 | Recursion                                               |       2       |        2        |      4      |
+| 15.2 | Combinatorial Algorithms *                              |       1       |        1        |      2      |
+| 15.3 | Combinatorial Algorithms **                             |       0       |        2        |      2      |
+| 16   | Recursive Algs and Backtracking **                      |       1       |        2        |      3      |
+| 17   | Final Exam                                              |       0       |        2        |      2      |
+| 18.1 | High Quality Code and Refactoring - Basics              |       3       |        1        |      4      |
+| 18.2 | High Quality Code and Refactoring - Advanced *          |       0       |        2        |      2      |
+| 18.3 | High Quality Code and Refactoring - More Exercises  **  |       0       |        2        |      2      |
+| 19.1 | Unit Testing *                                          |       1       |        2        |      3      |
+| 19.2 | Unit Testing **                                         |       2       |        3        |      5      |
+|      | Задължителни часове (базов вариант)                     |      31       |       31        |     62      |
+|      | Резерв часове (базов вариант)                           |       4       |        6        |     10      |
 |      | Общ брой часове (базов вариант)                         |      35       |       37        |     72      |
-|      | Задължителни часове (разширен вариант)                  |      41       |       62        |    103      |
-|      | Резерв часове (разширен вариант)                        |       2       |        3        |      5      |
+|      | Задължителни часове (разширен вариант)                  |      39       |       56        |     95      |
+|      | Резерв часове (разширен вариант)                        |       4       |        9        |     13      |
 |      | Общ брой часове (разширен вариант)                      |      43       |       65        |    108      |
-|      | Задължителни часове (вариант експерт)                   |      43       |       82        |    125      |
-|      | Резерв часове (вариант експерт)                         |       9       |       10        |     19      |
+|      | Задължителни часове (вариант експерт)                   |      43       |       89        |    122      |
+|      | Резерв часове (вариант експерт)                         |       9       |       13        |     22      |
 |      | Общ брой часове (вариант експерт)                       |      52       |       92        |    144      |
+
 
 ## Официална учебна програма от МОН
 
