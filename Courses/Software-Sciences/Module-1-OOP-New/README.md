@@ -39,11 +39,11 @@
 | 09.2 | Encapsulation - Advanced *              |       1       |        1        |      2      |
 | 10.1 | Inheritance - Basic                     |       2       |        2        |      4      |
 | 10.2 | Inheritance - Advanced *                |       1       |        1        |      2      |
-| 11.1 | Abstract Classes and Interfaces         |       2       |        2        |      4      |
-| 11.2 | Interfaces - More Exercises *           |       0       |        2        |      2      |
-| 11.3 | Interfaces - Additional Exercises **    |       0       |        2        |      2      |
-| 12.1 | Polymorphism                            |       2       |        2        |      4      |
-| 12.2 | Polymorphism - More Exercises *         |       0       |        2        |      2      |
+| 11.1 | Abstract Classes and Interfaces - Basic |       2       |        2        |      4      |
+| 11.2 | Interfaces - Advanced *                 |       0       |        2        |      2      |
+| 11.3 | Interfaces - More Exercises **          |       0       |        2        |      2      |
+| 12.1 | Polymorphism - Basic                    |       2       |        2        |      4      |
+| 12.2 | Polymorphism - Advanced *               |       0       |        2        |      2      |
 | 13.1 | Delegates and Events - Basic            |       1       |        1        |      2      |
 | 13.2 | Delegates and Events - Advanced *       |       2       |        2        |      4      |
 | 14   | Final Exam: Object-Oriented Programming |       0       |        2        |      2      |
