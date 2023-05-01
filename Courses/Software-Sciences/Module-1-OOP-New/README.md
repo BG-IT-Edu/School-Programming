@@ -32,35 +32,32 @@
 | 07.1 | Classes & Objects - Basics              |       2       |        4        |      6      |
 | 07.2 | Classes & Objects - Advanced *          |       1       |        2        |      3      |
 | 07.3 | Classes & Objects - More Exercises **   |       0       |        3        |      3      |
-| 08.1 | Unit Testing - Basics                   |       1       |        1        |      2      |
-| 08.2 | Unit Testing - Advanced *               |       2       |        2        |      4      |
-| 08.3 | Unit Testing - More Exercises **        |       2       |        4        |      6      |
-| 09.1 | Encapsulation - Basic                   |       2       |        2        |      4      |
-| 09.2 | Encapsulation - Advanced *              |       1       |        1        |      2      |
-| 10.1 | Inheritance - Basic                     |       2       |        2        |      4      |
-| 10.2 | Inheritance - Advanced *                |       1       |        1        |      2      |
-| 11.1 | Abstract Classes and Interfaces - Basic |       2       |        2        |      4      |
-| 11.2 | Interfaces - Advanced *                 |       0       |        2        |      2      |
-| 11.3 | Interfaces - More Exercises **          |       0       |        2        |      2      |
-| 12.1 | Polymorphism - Basic                    |       2       |        2        |      4      |
-| 12.2 | Polymorphism - Advanced *               |       0       |        2        |      2      |
-| 13.1 | Delegates and Events - Basic            |       1       |        1        |      2      |
-| 13.2 | Delegates and Events - Advanced *       |       2       |        2        |      4      |
-| 14   | Final Exam: Object-Oriented Programming |       0       |        2        |      2      |
-| 15   | Design Patterns **                      |       2       |        2        |      4      |
-| 16   | SOLID Principles **                     |       2       |        2        |      4      |
-| 17.1 | Practical Projects: Rock-Paper-Scissors |       0       |        4        |      4      |
-| 17.2 | Practical Projects: Guess a Number      |       0       |        4        |      4      |
-| 17.3 | Practical Projects: Quick Draw *        |       0       |        4        |      4      |
-| 17.4 | Practical Projects: Random Sentences ** |       0       |        6        |      6      |
-|      | Задължителни часове (базов вариант)     |      22       |       40        |     62      |
-|      | Резерв часове (базов вариант)           |       4       |        6        |     10      |
+| 08.1 | Encapsulation - Basic                   |       2       |        2        |      4      |
+| 08.2 | Encapsulation - Advanced *              |       1       |        1        |      2      |
+| 09.1 | Inheritance - Basic                     |       2       |        2        |      4      |
+| 09.2 | Inheritance - Advanced *                |       1       |        1        |      2      |
+| 10.1 | Abstract Classes and Interfaces - Basic |       2       |        2        |      4      |
+| 10.2 | Interfaces - Advanced *                 |       0       |        2        |      2      |
+| 10.3 | Interfaces - More Exercises **          |       0       |        2        |      2      |
+| 11.1 | Polymorphism - Basic                    |       2       |        2        |      4      |
+| 11.2 | Polymorphism - Advanced *               |       0       |        2        |      2      |
+| 12.1 | Delegates and Events - Basic            |       1       |        1        |      2      |
+| 12.2 | Delegates and Events - Advanced *       |       2       |        2        |      4      |
+| 13   | Final Exam: Object-Oriented Programming |       0       |        2        |      2      |
+| 14   | Design Patterns **                      |       2       |        2        |      4      |
+| 15   | SOLID Principles **                     |       2       |        2        |      4      |
+| 16.1 | Practical Projects: Rock-Paper-Scissors |       0       |        4        |      4      |
+| 16.2 | Practical Projects: Guess a Number      |       0       |        4        |      4      |
+| 16.3 | Practical Projects: Quick Draw *        |       0       |        4        |      4      |
+| 16.4 | Practical Projects: Random Sentences ** |       0       |        6        |      6      |
+|      | Задължителни часове (базов вариант)     |      21       |       39        |     60      |
+|      | Резерв часове (базов вариант)           |       5       |        7        |     12      |
 |      | Общ брой часове (базов вариант)         |      26       |       46        |     72      |
-|      | Задължителни часове (разширен вариант)  |      33       |       63        |     96      |
-|      | Резерв часове (разширен вариант)        |       6       |        6        |     12      |
+|      | Задължителни часове (разширен вариант)  |      30       |       60        |     90      |
+|      | Резерв часове (разширен вариант)        |       6       |       12        |     18      |
 |      | Общ брой часове (разширен вариант)      |      36       |       72        |    108      |
-|      | Задължителни часове (вариант експерт)   |      39       |       86        |    125      |
-|      | Резерв часове (вариант експерт)         |       8       |       11        |     19      |
+|      | Задължителни часове (вариант експерт)   |      34       |       81        |    115      |
+|      | Резерв часове (вариант експерт)         |      13       |       16        |     29      |
 |      | Общ брой часове (вариант експерт)       |      47       |       97        |    144      |
 
 Разпределенията по-горе са примерни и служат само за ориентир. Учителите са свободни да правят промени според нивото и темпото на класа, според непредвидени ситуации в учебния график, както и да работят с различна скорост с по-напредналите и с по-бавните ученици.
