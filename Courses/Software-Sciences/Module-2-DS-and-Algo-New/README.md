@@ -44,13 +44,13 @@
 |------|---------------------------------------------------------|---------------|-----------------|-------------|
 | 01.1 | Arrays - Basics                                         |       2       |        2        |      4      |
 | 01.2 | Arrays - Advanced *                                     |       0       |        2        |      2      |
-| 01.3 | Arrays - More exercises **                              |       0       |        2        |      2      |
+| 01.3 | Arrays - More Exercises **                              |       0       |        2        |      2      |
 | 02.1 | Lists - Basics                                          |       2       |        2        |      4      |
 | 02.2 | Lists - Advanced *                                      |       0       |        2        |      2      |
-| 02.3 | Lists - More exercises **                               |       0       |        2        |      2      |
+| 02.3 | Lists - More Exercises **                               |       0       |        2        |      2      |
 | 03.1 | Stack & Queue - Basics                                  |       2       |        2        |      4      |
 | 03.2 | Stack & Queue - Advanced *                              |       0       |        2        |      2      |
-| 03.3 | Stack & Queue - More exercises **                       |       0       |        2        |      2      |
+| 03.3 | Stack & Queue - More Exercises **                       |       0       |        2        |      2      |
 | 04.1 | Multidimentional Arrays - Basics                        |       2       |        2        |      4      |
 | 04.2 | Multidimentional Arrays - Advanced *                    |       0       |        2        |      2      |
 | 04.3 | Multidimentional Arrays - More Excercises **            |       0       |        2        |      2      |
@@ -73,14 +73,14 @@
 | 13.2 | Combining Data Structures - More Exercises **           |       0       |        2        |      2      |
 | 14   | Sorting & Searching Algorithms                          |       2       |        2        |      4      |
 | 15.1 | Recursion                                               |       2       |        2        |      4      |
-| 15.2 | Combinatorial Algorithms *                              |       1       |        1        |      2      |
-| 15.3 | Combinatorial Algorithms **                             |       0       |        2        |      2      |
-| 16   | Recursive Algs and Backtracking **                      |       1       |        2        |      3      |
+| 15.2 | Combinatorial Algorithms - Basics *                     |       1       |        1        |      2      |
+| 15.3 | Combinatorial Algorithms - Advanced **                  |       0       |        2        |      2      |
+| 16   | Recursive Algorithms and Backtracking **                |       1       |        2        |      3      |
 | 17   | Final Exam                                              |       0       |        2        |      2      |
 | 18.1 | High Quality Code and Refactoring - Basics              |       3       |        1        |      4      |
 | 18.2 | High Quality Code and Refactoring - Advanced *          |       0       |        2        |      2      |
-| 19.1 | Unit Testing *                                          |       1       |        2        |      3      |
-| 19.2 | Unit Testing **                                         |       2       |        3        |      5      |
+| 19.1 | Unit Testing - Basics *                                 |       1       |        2        |      3      |
+| 19.2 | Unit Testing - Advanced **                              |       2       |        3        |      5      |
 |      | Задължителни часове (базов вариант)                     |      31       |       31        |     62      |
 |      | Резерв часове (базов вариант)                           |       4       |        6        |     10      |
 |      | Общ брой часове (базов вариант)                         |      35       |       37        |     72      |
