@@ -77,8 +77,7 @@
 | 15.3 | Combinatorial Algorithms - Advanced **                  |       0       |        2        |      2      |
 | 16   | Recursive Algorithms and Backtracking **                |       1       |        2        |      3      |
 | 17   | Final Exam                                              |       0       |        2        |      2      |
-| 18.1 | High Quality Code and Refactoring - Basics              |       3       |        1        |      4      |
-| 18.2 | High Quality Code and Refactoring - Advanced *          |       0       |        2        |      2      |
+| 18   | High Quality Code and Refactoring                       |       4       |        2        |      6      |
 | 19.1 | Unit Testing - Basics *                                 |       1       |        2        |      3      |
 | 19.2 | Unit Testing - Advanced **                              |       2       |        3        |      5      |
 |      | Задължителни часове (базов вариант)                     |      31       |       31        |     62      |
