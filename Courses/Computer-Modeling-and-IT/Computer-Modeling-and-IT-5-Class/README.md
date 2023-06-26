@@ -12,7 +12,7 @@
 |------|--------------------------------------------|---------------|-----------------|-------------|
 |  01  | Introduction to IT and computer systems    |       2       |        2        |      4      |
 |  02  | User interface                             |       2       |        2        |      4      |
-|  03  | TODO: Носители на информация               |       2       |        4        |      6      |
+|  03  | Data storage devices                       |       2       |        4        |      6      |
 |  04  | File system                                |       1       |        2        |      3      |
 |  05  | Review: IT and computer systems (1–4)      |       0       |        3        |      3      |
 |  06  | Using the Internet                         |       2       |        4        |      6      |
