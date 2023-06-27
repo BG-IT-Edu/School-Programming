@@ -6,64 +6,57 @@
 
 Примерно разпределение на часовете включва темите и часовете за теория и упражнения в трите предложени варианта:
 
-### TODO: fix topic hours
-
-| Тема | Наименование на урока                      | Часове теория | Часове практика | Часове общо |
-|------|--------------------------------------------|---------------|-----------------|-------------|
-|  01  | Introduction to IT and computer systems    |       2       |        2        |      4      |
-|  02  | User interface                             |       2       |        2        |      4      |
-|  03  | TODO: Носители на информация               |       2       |        4        |      6      |
-|  04  | File system                                |       1       |        2        |      3      |
-|  05  | Review: IT and computer systems (1–4)      |       0       |        3        |      3      |
-|  06  | Using the Internet                         |       2       |        4        |      6      |
-|  07  | Email                                      |       1       |        2        |      3      |
-|  08  | Sending and receiving emails               |       0       |        3        |      3      |
-|  09  | Searching information                      |       2       |        2        |      4      |
-|  10  | Review: Internet (5–9)                     |       2       |        3        |      5      |
-|  11  | Working with audio and video               |       0       |        2        |      2      |
-|  12  | Loading, editing and saving graphics       |       2       |        4        |      6      |
-|  13  | Color palettes                             |       1       |        2        |      3      |
-|  14  | Freehand drawing tools                     |       0       |        3        |      3      |
-|  15  | Adding text to images                      |       2       |        2        |      4      |
-|  16  | Transforming and printing images           |       1       |        1        |      2      |
-|  17  | Review: Computer graphics (11-16)          |       2       |        2        |      4      |
-|  18  | Exam: IT, Internet and graphics            |       1       |        1        |      2      |
-|  19  | Programming in Scratch                     |       2       |        2        |      4      |
-|  20  | Creating sprites                           |       0       |        2        |      2      |
-|  21  | Drawing shapes                             |       2       |        2        |      4      |
-|  22  | Creating custom blocks                     |       0       |        2        |      2      |
-|  23  | Algorithms for value swapping              |       0       |        2        |      2      |
-|  24  | Algorithms for counting                    |       0       |        2        |      2      |
-|  25  | Algorithms for finding delimeters          |       0       |        2        |      2      |
-|  26  | Algorithms for max/min elements            |       0       |        2        |      2      |
-|  27  | Algorithms for sorting                     |       0       |        2        |      2      |
-|  28  | Algorithms for comparing and sorting       |       0       |        2        |      2      |
-|  29  | Review: Computer modeling (19-28)          |       0       |        2        |      2      |
-|  30  | Exam: Computer modeling                    |       0       |        2        |      2      |
-|  31  | Intro to text processing                   |       0       |        2        |      2      |
-|  32  | Entering and editing text                  |       0       |        2        |      2      |
-|  33  | Symbol formatting                          |       0       |        2        |      2      |
-|  34  | Paragraph formatting                       |       0       |        2        |      2      |
-|  35  | Review: Text processing (31-34)            |       0       |        2        |      2      |
-|  36  | Intro to table processing                  |       1       |        1        |      2      |
-|  37  | Diagrams                                   |       1       |        1        |      2      |
-|  38  | Cell formatting                            |       1       |        1        |      2      |
-|  39  | Review: Table processing (36-38)           |       1       |        1        |      2      |
-|  40  | Intro to presentations                     |       1       |        1        |      2      |
-|  41  | Creating and saving presentations          |       1       |        1        |      2      |
-|  42  | Creating topic presentations               |       1       |        1        |      2      |
-|  43  | Review: Presentations                      |       1       |        1        |      2      |
-|  44  | Final exam                                 |       1       |        1        |      2      |
-|  45  | Practical Projects                         |       0       |        4        |      4      |
-|      | Задължителни часове (базов вариант)        |      21       |       39        |     60      |
-|      | Резерв часове (базов вариант)              |       5       |        7        |     12      |
-|      | Общ брой часове (базов вариант)            |      26       |       46        |     72      |
-|      | Задължителни часове (разширен вариант)     |      30       |       61        |     91      |
-|      | Резерв часове (разширен вариант)           |       6       |       11        |     17      |
-|      | Общ брой часове (разширен вариант)         |      36       |       72        |    108      |
-|      | Задължителни часове (вариант експерт)      |      34       |       80        |    114      |
-|      | Резерв часове (вариант експерт)            |      13       |       17        |     30      |
-|      | Общ брой часове (вариант експерт)          |      47       |       97        |    144      |
+| Тема | Наименование на урока                      | Часове      |
+|------|--------------------------------------------|-------------|
+|  01  | Introduction to IT and computer systems    |      1      |
+|  02  | User interface                             |      1      |
+|  03  | Data storage devices                       |      1      |
+|  04  | File system                                |      1      |
+|  05  | Review: IT and computer systems (1–4)      |      1      |
+|  06  | Using the Internet                         |      1      |
+|  07  | Email                                      |      1      |
+|  08  | Sending and receiving emails               |      1      |
+|  09  | Searching information                      |      1      |
+|  10  | Review: Internet (5–9)                     |      1      |
+|  11  | Working with audio and video               |      2      |
+|  12  | Loading, editing and saving graphics       |      1      |
+|  13  | Color palettes                             |      1      |
+|  14  | Freehand drawing tools                     |      1      |
+|  15  | Adding text to images                      |      1      |
+|  16  | Transforming and printing images           |      1      |
+|  17  | Review: Computer graphics (11-16)          |      1      |
+|  18  | Exam: IT, Internet and graphics            |      1      |
+|  19  | Programming in Scratch                     |      1      |
+|  20  | Creating sprites                           |      1      |
+|  21  | Drawing shapes                             |      1      |
+|  22  | Creating custom blocks                     |      1      |
+|  23  | Algorithms for value swapping              |      1      |
+|  24  | Algorithms for counting                    |      1      |
+|  25  | Algorithms for finding delimeters          |      1      |
+|  26  | Algorithms for max/min elements            |      1      |
+|  27  | Algorithms for sorting                     |      1      |
+|  28  | Algorithms for comparing and sorting       |      1      |
+|  29  | Review: Computer modeling (19-28)          |      1      |
+|  30  | Exam: Computer modeling                    |      1      |
+|  31  | Intro to text processing                   |      1      |
+|  32  | Entering and editing text                  |      1      |
+|  33  | Symbol formatting                          |      1      |
+|  34  | Paragraph formatting                       |      1      |
+|  35  | Review: Text processing (31-34)            |      1      |
+|  36  | Intro to table processing                  |      1      |
+|  37  | Diagrams                                   |      1      |
+|  38  | Cell formatting                            |      1      |
+|  39  | Review: Table processing (36-38)           |      1      |
+|  40  | Intro to presentations                     |      1      |
+|  41  | Creating and saving presentations          |      1      |
+|  42  | Creating topic presentations               |      1      |
+|  43  | Review: Presentations                      |      1      |
+|  44  | Final Review                               |      1      |
+|  45  | Final exam                                 |      1      |
+|  46  | Practical Projects                         |      3      |
+|      | Задължителни часове                        |     49      |
+|      | Резерв часове                              |      2      |
+|      | Общ брой часове                            |     51      |
 
 Разпределенията по-горе са примерни и служат само за ориентир. Учителите са свободни да правят промени според нивото и темпото на класа, според непредвидени ситуации в учебния график, както и да работят с различна скорост с по-напредналите и с по-бавните ученици.
 
