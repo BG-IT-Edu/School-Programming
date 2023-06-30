@@ -23,7 +23,7 @@
  - [Програмиране II](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Fundamentals) (54 часа, 10 клас) - за да се научат да програмират (да работят с масиви, списъци, стрингове и речници), като продължение след "Увод в програмирането"
  - Избираем модул, например [Програмиране за вградени системи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Embedded-Systems-Programming) (54 часа, 10 клас)
  - [Увод в уеб разработката](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Internet-and-Web-Development) (144 часа, 11 клас)
- - Избираем модул, например [Операционни системи (Linux)]([https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer/Embedded-Systems-Programming](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Operating-Systems) (124 часа, 12 клас)
+ - Избираем модул, например [Операционни системи (Linux)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Operating-Systems) (124 часа, 12 клас)
 
 **Задължителни модули** за профилиращ предмет "**Информационни технологии**" и минимален брой часове според наредбата на МОН:
  - Модул 1: Обработка и анализ на данни (72 часа, 11 клас) - анализ на данни с електронни таблици, бази данни, информационни системи
