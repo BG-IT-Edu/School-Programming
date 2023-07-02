@@ -30,7 +30,7 @@
 | 05.2 | Methods - Advanced *                    |       2       |        3        |      5      |
 | 06   | Mid Exam: Coding Basics                 |       0       |        2        |      2      |
 | 07.1 | Classes & Objects - Basics              |       2       |        4        |      6      |
-| 07.2 | Classes & Objects - Advanced *          |       1       |        2        |      3      |
+| 07.2 | Classes, Objects, Lists - Advanced *    |       1       |        2        |      3      |
 | 07.3 | Classes & Objects - More Exercises **   |       0       |        3        |      3      |
 | 08.1 | Encapsulation - Basic                   |       2       |        2        |      4      |
 | 08.2 | Encapsulation - Advanced *              |       1       |        1        |      2      |
