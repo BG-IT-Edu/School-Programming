@@ -7,12 +7,12 @@
 ## Обхват на проекта
 
 За проектът обхваща разработката на свободно съдържание за:
- - [**професия "Приложен програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer) в професионалните гимназии
- - [**професия "Системен програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/System-Programmer) в професионалните гимназии
- - [**професия "Програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer) в професионалните гимназии
- - [**професия "Програмист на изкуствен интелект"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/AI-Programmer) в професионалните гимназии
- - [**професия "Програмист на роботи"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Robotics-and-IoT-Programmer) в професионалните гимназии
- - [**профил "Софтуерни и хардуерни науки"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences) в профилираните гимназии
+ - [**Професия "Приложен програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer) в професионалните гимназии
+ - [**Професия "Системен програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/System-Programmer) в професионалните гимназии
+ - [**Професия "Програмист"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Programmer) в професионалните гимназии
+ - [**Професия "Програмист на изкуствен интелект"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/AI-Programmer) в професионалните гимназии
+ - [**Професия "Програмист на роботи"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Robotics-and-IoT-Programmer) в професионалните гимназии
+ - [**Профил "Софтуерни и хардуерни науки"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences) в профилираните гимназии
  - [**Компютърно моделиране и информационни технологии**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Computer-Modeling-and-IT) (3-7 клас)
  
 ## Екип
