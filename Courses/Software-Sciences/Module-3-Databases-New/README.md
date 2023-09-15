@@ -162,7 +162,7 @@
   - ORM технологии и Entity Framework
   - Генериране на EF модел по SQL Server база данни
   - CRUD операции върху EF DbContext
-  - Да се опрости зяявката: `01.1.ORM-and-Entity-Framework-Overview.pptx`
+  - Да се опрости заявката: `01.1.ORM-and-Entity-Framework-Overview.pptx`
 
 ### Упражнение: Връзка между C# и база данни
   - Генериране на EF модел по SQL Server база данни
