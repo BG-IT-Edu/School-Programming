@@ -1,0 +1,35 @@
+Въпрос: Как се декларира целочислена променлива в C#?
+a) int myVariable;
+b) variable myVariable
+c) int = myVariable;
+a) int myVariable;
+Въпрос: Какво е HTML?
+A) Програмен език за създаване на уеб страници
+B) Програмен език за създаване на бази от данни
+C) Операционна система
+A) Програмен език за създаване на уеб страници
+Какво представлява ключовата дума "using" в C#?
+A) Декларира нова променлива.
+B) Използва се за включване на пространство от имена.
+C) Означава началото на нов блок код.
+B) Използва се за включване на пространство от имена.
+Как се декларира променлива в C#?
+A) variableName = value;
+B) int variableName = value;
+C) declare variableName = value;
+B) int variableName = value;
+Как се нарича метод, който се изпълнява автоматично, когато се създаде инстанция на клас?
+A) Constructor
+B) Destructor
+C) Finalizer
+A) Constructor
+Какъв е правилният синтаксис за създаване на обект от клас в C#?
+A) MyClass myObject = new;
+B) MyClass myObject = create MyClass;
+C) MyClass myObject = new MyClass();
+C) MyClass myObject = new MyClass();
+Как се представя символът за нов ред в низ в C#?
+A) \n
+B) \t
+C) \r
+A) \n
