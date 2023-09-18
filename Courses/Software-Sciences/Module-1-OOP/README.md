@@ -123,7 +123,7 @@
   - Дори при базовия вариант на учебната програма (с малък брой часове) на по-силните ученици могат да се дават **допълнителни задачи** от темите, предвидени за по-голям брой часове.
 
 ## Допълнителни външни ресурси
-  - Учебник за 11 клас за модул 1. "ООП" от К.Манев и екип - https://www.ozone.bg/product/informatika-za-11-klas-profilirana-podgotovka-modul-1-obektno-orientirano-proektirane-i-programirane-c-uchebna-godina-2021-2022-izkustva
+  - Учебник за 11 клас за модул 1. "ООП" от К. Манев и екип - https://www.ozone.bg/product/informatika-za-11-klas-profilirana-podgotovka-modul-1-obektno-orientirano-proektirane-i-programirane-c-uchebna-godina-2021-2022-izkustva
   -  Учебник за 11 клас за модул 1. "ООП" от Клет България - https://bukvara.com/informatika-za-profilirana-podgotovka-11-klas-modul-1-obektno-orientirano-proektirane-i-programirane-modul-2-strukturi-ot.html
   - Учебен курс за модул 1. "ООП" от Е. Бакалова - https://bakalova.weebly.com/10481085109210861088108410721090108010821072-1080-10481058---11-1082108310721089-20212022-10521086107610911083-1.html
 
