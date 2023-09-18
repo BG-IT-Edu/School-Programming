@@ -18,3 +18,7 @@
 |    | Резерв часове                            |       0       |        14       |
 |    | Допълнителни часове                      |       4       |        16       |
 |    | Общ брой часове                          |       16      |        56       |
+
+## Допълнителни външни ресурси
+  - Учебник за 12 клас за **Модул 4. "Програмиране на информационни системи"**: https://www.ozone.bg/product/informatika-za-12-klas-profilirana-podgotovka-modul-4-programirane-na-informatsionni-sistemi-uchebna-programa-2021-2022-izkustava/
+  - Tutorial за Windows Forms + Entity Framework Core: https://learn.microsoft.com/en-us/ef/core/get-started/winforms
