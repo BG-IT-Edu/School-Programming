@@ -13,7 +13,10 @@
 
 Учебното съдържание е създадено по проект "ИТ кариера", на базата на материали от СофтУни Фондацията.
  - Автор: учителски колектив по проект "ИТ кариера"
- - Завършеност: 80% (повечете слайдове са твърде разказвателни, с много текст, като учебник; форматирането да се подобри; да се добави judge за задачите)
+ - Завършеност: 50-60%
+ - Забележки: повечето слайдове са твърде разказвателни, с много текст, като учебник; форматирането да се подобри; да се добави judge за задачите
+
+<img src="https://github.com/BG-IT-Edu/School-Programming/blob/main/Guidelines/Status-Under-Development.png" alt="status" width="200"/>
 
 ## Препратки
  - https://softuni.foundation/projects/applied-software-developer-profession/algorithms-and-data-structures-course
