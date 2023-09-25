@@ -13,9 +13,9 @@
 
 ## Завършеност
 
-Учебното съдържание ще бъде създадено по проект на БАСКОМ в рамките на работна група "Образование по програмиране и ИТ".
- - Автор: работна група "Образование по програмиране и ИТ"
- - Завършеност: 0% (курсът още не е разработен!)
+Учебното съдържание за този курс **още не е разработено**.
+
+<img src="https://github.com/BG-IT-Edu/School-Programming/blob/main/Guidelines/Status-Under-Development.png" alt="status" width="200"/>
 
 ## Препратки
  - https://softuni.foundation/projects/applied-software-developer-profession/concurrent-programming-course
