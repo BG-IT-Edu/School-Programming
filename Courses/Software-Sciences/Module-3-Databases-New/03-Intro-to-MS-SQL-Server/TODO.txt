@@ -1,0 +1,3 @@
+Да се добави Installation Guide за:
+  1) SQL Server LocalDB
+  2) SQL Server Management Studio
