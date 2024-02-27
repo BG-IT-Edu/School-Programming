@@ -7,6 +7,7 @@
  - [**професия "Програмист на изкуствен интелект"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/AI-Programmer) в професионалните гимназии
  - [**професия "Програмист на роботи"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Robotics-and-IoT-Programmer) в професионалните гимназии
  - [**профил "Софтуерни и хардуерни науки"**](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences) в профилираните гимназии
+ - [**компютърно моделиране и информационни технологии** в началния етап на всички български училища](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Computer-Modeling-and-IT)
  
 Учебните материали **могат да се ползват свободно** от всички български учители и преподаватели, да се променят, адаптират, съкращават, разширяват, както и да се разпространяват в променен вид, съгласно лиценза за отворено съдържание ["CC-BY-NC-SA"](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
