@@ -15,6 +15,7 @@
    - Въведение в Windows Forms и десктоп приложенията със C#
    - Основни контроли: бутон, текстово поле
    - Обработка на събития (например натискане на бутон)
+   - Вж. https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-1-OOP/02-GUI-Apps
  - **Упражнение: GUI приложения с Windows Forms**
    - Създаване на несложно GUI приложение с Windows Forms (без база данни)
  - **Въведение в ORM технологиите** (обектно-ориентиран модел на релационна БД)
