@@ -1,12 +1,9 @@
--- Create the database
 CREATE DATABASE TravelCompany;
 GO
 
--- Use the TravelCompany database
 USE TravelCompany;
 GO
 
--- Create Customers table
 CREATE TABLE Customers (
     CustomerID INT PRIMARY KEY IDENTITY(1,1),
     FirstName NVARCHAR(50),
@@ -16,7 +13,6 @@ CREATE TABLE Customers (
 );
 GO
 
--- Create Destinations table
 CREATE TABLE Destinations (
     DestinationID INT PRIMARY KEY IDENTITY(1,1),
     City NVARCHAR(50),
@@ -25,7 +21,6 @@ CREATE TABLE Destinations (
 );
 GO
 
--- Create Bookings table
 CREATE TABLE Bookings (
     BookingID INT PRIMARY KEY IDENTITY(1,1),
     CustomerID INT,
@@ -36,7 +31,6 @@ CREATE TABLE Bookings (
 );
 GO
 
--- Create Flights table
 CREATE TABLE Flights (
     FlightID INT PRIMARY KEY IDENTITY(1,1),
     DestinationID INT,
@@ -47,12 +41,11 @@ CREATE TABLE Flights (
 );
 GO
 
--- Create Hotels table
 CREATE TABLE Hotels (
     HotelID INT PRIMARY KEY IDENTITY(1,1),
     DestinationID INT,
     HotelName NVARCHAR(100),
-    Rating INT,  -- rating out of 5
+    Rating INT,
     FOREIGN KEY (DestinationID) REFERENCES Destinations(DestinationID)
 );
 GO
