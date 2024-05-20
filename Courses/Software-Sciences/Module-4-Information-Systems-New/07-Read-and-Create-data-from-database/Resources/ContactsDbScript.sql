@@ -1,0 +1,9 @@
+﻿CREATE DATABASE ContactsDb;
+
+USE ContactsDb;
+
+CREATE TABLE Contacts (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(100) NOT NULL,
+    Phone NVARCHAR(10) NOT NULL
+);
