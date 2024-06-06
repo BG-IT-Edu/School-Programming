@@ -1,4 +1,10 @@
-﻿CREATE TABLE Countries (
+﻿CREATE DATABASE CountriesDb;
+GO
+
+USE CountriesDb;
+GO
+
+CREATE TABLE Countries (
     CountryId INT PRIMARY KEY IDENTITY(1,1),
     CountryName NVARCHAR(100) NOT NULL
 );
