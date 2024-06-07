@@ -1,4 +1,11 @@
-﻿CREATE TABLE TodoTasks (
+﻿CREATE DATABASE TodoListDb;
+GO
+
+USE TodoListDb;
+GO
+
+CREATE TABLE TodoTasks (
     Id INT IDENTITY(1,1) PRIMARY KEY,
     Name NVARCHAR(250) NOT NULL
 );
+GO
