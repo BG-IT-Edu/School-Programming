@@ -1,10 +1,15 @@
-﻿USE StudentsDb;
+﻿CREATE DATABASE StudentsDb;
+GO
+
+USE StudentsDb;
+GO
 
 CREATE TABLE Students (
     Id INT PRIMARY KEY IDENTITY,
     Name NVARCHAR(50) NOT NULL,
     Grade DECIMAL(5, 2) NOT NULL
 );
+GO
 
 INSERT INTO Students (Name, Grade)
 VALUES 
@@ -33,3 +38,4 @@ VALUES
     ('Sebastian', 5.95),
     ('Abigail', 3.70),
     ('Sophie', 4.85);
+GO

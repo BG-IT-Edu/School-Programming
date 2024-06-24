@@ -1,8 +1,15 @@
-﻿CREATE TABLE Authors (
+﻿CREATE DATABASE BookstoreDb;
+GO
+
+USE BookstoreDb;
+GO
+
+CREATE TABLE Authors (
     Id INT PRIMARY KEY,
     Name NVARCHAR(100) NOT NULL,
     BirthYear INT
 );
+GO
 
 INSERT INTO Authors (Id, Name, BirthYear) VALUES
 (1, 'Stephen King', 1947),
@@ -15,6 +22,7 @@ INSERT INTO Authors (Id, Name, BirthYear) VALUES
 (8, 'Harper Lee', 1926),
 (9, 'Oscar Wilde', 1854),
 (10, 'Gabriel Garcia Marquez', 1927);
+GO
 
 CREATE TABLE Books (
     Id INT PRIMARY KEY,
@@ -24,6 +32,7 @@ CREATE TABLE Books (
     PublishedYear INT,
     FOREIGN KEY (AuthorId) REFERENCES Authors(Id)
 );
+GO
 
 INSERT INTO Books (Id, Title, AuthorId, Genre, PublishedYear) VALUES
 (1, 'It', 1, 'Horror', 1986),
@@ -41,3 +50,4 @@ INSERT INTO Books (Id, Title, AuthorId, Genre, PublishedYear) VALUES
 (13, 'To Kill a Mockingbird', 8, 'Novel', 1960),
 (14, 'The Picture of Dorian Gray', 9, 'Novel', 1890),
 (15, 'Love in the Time of Cholera', 10, 'Romance', 1985);
+GO
