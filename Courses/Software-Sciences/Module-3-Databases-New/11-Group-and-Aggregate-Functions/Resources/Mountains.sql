@@ -2,6 +2,9 @@ GO
 CREATE DATABASE Mountains
 GO
 
+USE Mountains
+GO
+
 CREATE TABLE Continents (
     Id INT PRIMARY KEY,
     Name VARCHAR(255)
