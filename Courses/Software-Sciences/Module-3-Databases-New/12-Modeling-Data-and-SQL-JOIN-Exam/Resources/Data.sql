@@ -80,7 +80,7 @@ VALUES (1, 5, 5 * 1500),
 	   (4, 4, 4 * 150)
 
 INSERT INTO Orders (UserId, OrderDate, TotalAmount, ShippingAddress)
-VALUES (1, '2023-01-05', 1500, 'First Street 5, Sofia');
+VALUES (1, '2023-01-05', 7500, 'First Street 5, Sofia');
 
 INSERT INTO Orders (UserId, OrderDate, TotalAmount, ShippingAddress)
 VALUES (2, '2023-02-10', 800, 'Second Street 10, Sofia');
