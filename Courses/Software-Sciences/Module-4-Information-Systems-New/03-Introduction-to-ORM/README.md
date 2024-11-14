@@ -3,14 +3,14 @@
 Урокът "**ORM технологии**" има за цел да въведе учениците в **обектно-ориентирания модел на релационна база данни**. Разглежда **начините** за работа с ORM и разработването на приложения с **Entity Framework Core** - стандартният ORM framework на **.NET**
 
 ## Съдържание на темата "ORM технологии"
- - Object-Relational Mapping (**ORM**)
+ - **Object-Relational Mapping** (**ORM**)
  - **Code First** и **Database First**
  - Въведение в **Entity Framework Core**
  - Генериране на **ORM модел** по **съществуваща** база данни – **Database First** с **Entity Framework Core**
- - **EF Core Power Tools**   
- - Конфигурация на връзка към база данни – **connection string**
- - **Четене на данни** с Entity Framework Core
- - Примерно приложение: Магазин с продукти
+ - **EF Core Power Tools**
+ - **Четене на данни** с **Entity Framework Core**
+ - **Конфигурация** на **връзка** към база данни – **connection string**
+ - **Примерно приложение**: Магазин с продукти
 
 ## ORM технологии – упражнениe
   - Създаване на **конзолно приложение** с метода **Database First** и Entity Framework Core (с даден SQL скрипт)
