@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="Планина, слънце и море">
+  <rect width="520" height="360" fill="#eaf6ff"/>
+  <circle cx="405" cy="78" r="48" fill="#f7c948"/>
+  <path d="M0 245 L120 130 L215 245 Z" fill="#2f6f7e"/>
+  <path d="M95 245 L235 95 L390 245 Z" fill="#214b73"/>
+  <path d="M205 128 L235 95 L270 128 L244 120 L224 121 Z" fill="#ffffff"/>
+  <rect x="0" y="245" width="520" height="115" fill="#85c7de"/>
+  <path d="M0 278 C90 260 150 300 240 278 C330 256 410 294 520 270 L520 360 L0 360 Z" fill="#4ca3c7" opacity=".85"/>
+  <path d="M0 315 C110 295 190 333 300 310 C395 290 450 314 520 300 L520 360 L0 360 Z" fill="#ffffff" opacity=".32"/>
+</svg>
