@@ -88,15 +88,15 @@ h1 {
     padding: 24px;
     background-color: white;
     border-radius: 18px;
-    box-shadw: 0 12px 30px rgba(23, 50, 77, 0.12);
+    box-shadow: 0 12px 30px rgba(23, 50, 77, 0.12);
 }
 
 .card h3 {
-    font-familiy: Georgia, serif;
+    font-family: Georgia, serif;
     color: #17324d;
 }
 
-.contact {
+.contacts {
     max-width: 700px;
     margin: 60px auto;
     padding: 30px;
@@ -105,12 +105,29 @@ h1 {
     border-radius: 20px;
 }
 
-.contact input {
-    width: 65%;
+.contact-form {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 10px;
+}
+
+.form-field {
+    text-align: left;
+}
+
+.form-field label {
+    display: block;
+    margin-bottom: 7px;
+    font-weight: bold;
+}
+
+.contacts input {
+    width: 100%;
     padding: 12px;
 }
 
-.contact button {
+.contacts button {
     padding: 12px 22px;
     color: white;
     background-color: #17324d;
@@ -119,6 +136,12 @@ h1 {
 }
 
 @media (max-width: 700px) {
+    .navigation {
+        grid-template-columns: 1fr;
+        gap: 14px;
+        text-align: center;
+    }
+
     .hero-content,
     .cards {
         grid-template-columns: 1fr;
@@ -128,12 +151,7 @@ h1 {
         font-size: 34px;
     }
 
-    .navigation {
-        gap: 14px;
-    }
-
-    .contact input {
-        width: 100%;
-        margin-bottom: 10px;
+    .contact-form {
+        grid-template-columns: 1fr;
     }
 }
