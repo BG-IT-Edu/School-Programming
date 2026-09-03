@@ -12,10 +12,10 @@
 ## Учебни модули за информатика и ИТ
 
 **Задължителни модули** за профилиращ предмет "**Информатика**" и минимален брой часове според наредбата на МОН:
- - Модул 1: [Обектно-ориентирано проектиране и програмиране](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-1-OOP) (72 часа, 11 клас)
- - Модул 2: [Структури от данни и алгоритми](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-2-DS-and-Algo) (72 часа, 11 клас)
- - Модул 3: [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-3-Databases) (72 часа, 12 клас)
- - Модул 4: [Програмиране на информационни системи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-4-Information-Systems) (52 часа, 12 клас)
+ - Модул 1 (информатика): [Обектно-ориентирано проектиране и програмиране](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-1-OOP) (72 часа, 11 клас)
+ - Модул 2 (информатика): [Структури от данни и алгоритми](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-2-DS-and-Algo) (72 часа, 11 клас)
+ - Модул 3 (информатика): [Релационен модел на бази от данни](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-3-Databases) (72 часа, 12 клас)
+ - Модул 4 (информатика): [Програмиране на информационни системи](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/Module-4-Information-Systems) (52 часа, 12 клас)
 
 **Допълнителни модули** (препоръчително учебно съдържание) за профилиращ предмет "**Информатика**" (не се изискват от МОН, но могат да се използват в допълнителни часове от учителите):
  - [Увод в програмирането](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Programming-Basics) (72 часа, 8 клас) - за старт в програмирането (да научат как се работи с данни, проверки и цикли)
@@ -26,15 +26,15 @@
  - Избираем модул, например [Операционни системи (Linux)](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Applied-Programmer/Operating-Systems) (124 часа, 12 клас)
 
 **Задължителни модули** за профилиращ предмет "**Информационни технологии**" и минимален брой часове според наредбата на МОН:
- - Модул 1: Обработка и анализ на данни (72 часа, 11 клас) - анализ на данни с електронни таблици, бази данни, информационни системи
- - Модул 2: Мултимедия (72 часа, 11 клас) - графика, звук, видео
- - [Модул 3: Уеб дизайн](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/IT-Module-3-Web-Design) (62 часа, 12 клас) - уеб сайтове с WordPress + HTML и CSS
- - [Модул 4: Решаване на проблеми с ИКТ](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/IT-Module-4-Problem-Solving-with-ICT) (62 часа, 12 клас) - управление на проекти, екипна работа, ИКТ решения, хардуер и софтуер
+ - Модул 1 (ИТ): Обработка и анализ на данни (72 часа, 11 клас) - анализ на данни с електронни таблици, бази данни, информационни системи
+ - Модул 2 (ИТ): Мултимедия (72 часа, 11 клас) - графика, звук, видео
+ - Модул 3 (ИТ): [Уеб дизайн](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/IT-Module-3-Web-Design) (62 часа, 12 клас) - уеб сайтове с WordPress + HTML и CSS
+ - Модул 4 (ИТ): [Решаване на проблеми с ИКТ](https://github.com/BG-IT-Edu/School-Programming/tree/main/Courses/Software-Sciences/IT-Module-4-Problem-Solving-with-ICT) (62 часа, 12 клас) - управление на проекти, екипна работа, ИКТ решения, хардуер и софтуер
 
 **Допълнителни модули** (препоръчително учебно съдържание) "Информационни технологии" (не се изискват от МОН, но могат да се използват в допълнителни часове от учителите):
  - Информационни технологии (90 часа) - хардуер, ОС, инсталация и поддръжка на ОС и приложен софтуер
- - Уеб сайтове с HTML и CSS (54 часа) - след модул "Уеб дизайн" с WordPress
- - ...
+ - Изкуствен интелект (72 часа) - работа с AI инструменти (ChatGPT, Claude, Gemini, други), генериране на сайтове и софтуер с AI, създаване на agentic workflows
+ - Софтуерна разработка с AI (54 часа) - създаване на приложен софтуер без писане на код, с AI платформи (Lovable, Replit, Bolt)
 
 ## Препоръчителен брой учебни часове по информатика и ИТ
 
