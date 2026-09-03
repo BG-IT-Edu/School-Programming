@@ -67,12 +67,8 @@
 ## Държавни зрелостни изпити (ДЗИ)
 
 За завършване на профил "Софтуерни и хардуерни науки" се изисква полагане на **държавен зрелостен изпит (ДЗИ)** по един от профилиращите предмети:
-  - ДЗИ по Информатика от 23.05.2023 г.: https://web.mon.bg/upload/35862/2DZI_PP_INFORMATIKA_V2_23.05.2023.pdf
-  - ДЗИ по Информатика от 25.08.2023 г.: https://web.mon.bg/upload/37893/2DZI_INFORMATIKA_V2_25082023.pdf
-  - ДЗИ по Информатика от 20.05.2022 г.: https://web.mon.bg/upload/30769/2DZI_INFORMATIKA_V1.pdf
-  - ДЗИ по Информатика от 26.08.2022 г.: https://web.mon.bg/upload/32862/2DZI_INFORMATIKA.pdf
-  - ДЗИ по Информационни технологии от 20.05.2022 г.: https://web.mon.bg/upload/30768/2DZI_INFORMACIONNI_TEHNOLOGII_V1.pdf
-  - ДЗИ по Информационни технологии от 26.08.2022 г.: https://web.mon.bg/upload/32861/2DZI_INFORMACIONNITEHNOLOGII.pdf
+  - ДЗИ по Информатика (по години): https://www.mon.bg/obshto-obrazovanie/darzhavni-zrelostni-izpiti-dzi/izpitni-materiali-za-dzi-po-godini/
+  - ДЗИ по Информационни технологии (по години): https://www.mon.bg/obshto-obrazovanie/darzhavni-zrelostni-izpiti-dzi/izpitni-materiali-za-dzi-po-godini/
 
 **Конспекти за ДЗИ** по информатика и ИТ:
   - Конспект за ДЗИ по Информационни технологии (приложение № 19 на Наредба № 7 от 11.08.2016 г. за профилираната подготовка): https://web.mon.bg/upload/27871/IT_pril20-N7-2016.pdf
